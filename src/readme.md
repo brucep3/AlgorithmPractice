@@ -9,11 +9,13 @@
 - 2020.10.30
     - 36 Valid Sudoku：每日一题
 - 2020.10.31
-    - 381 Insert Delete GetRandom O(1) - Duplicates allowed：每日一题，Solved; To take notes
+    - 381 Insert Delete GetRandom O(1) - Duplicates allowed：每日一题；Solved; To take notes
     - 380 Insert Delete GetRandom O(1)：381前置，Done
 - 2020.11.01 
-    - 140 Word Break II：每日一题, ToDo
-    - 139 Word Break：139 前置, ToDo
+    - 140 Word Break II：每日一题；ToDo
+    - 139 Word Break：139 前置；ToDo
+- 2020.11.02
+    -  349 Intersection of Two Arrays：每日一题；Solved
 
 ### ToDo
 #### 欠债
@@ -45,4 +47,9 @@
 406	Queue Reconstruction by Height  	250	67.6%	中等		 
 面试题 16.11	Diving Board LCCI  	487	44.2%	简单		 
 面试题 17.13	Re-Space LCCI  	232	56.0%	中等		 
+
+## 学习资料
+#### DP
+https://www.bilibili.com/video/BV1X741127ZM
+https://n7w.github.io/2020/09/02/acwing-dp/
 
