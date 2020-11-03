@@ -41,6 +41,9 @@ public class Main {
                 add(1);
                 add(1);
                 add(1);
+                add(1);
+                add(1);
+                add(1);
             }
         };
         System.out.println(arrayList.size());
