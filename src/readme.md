@@ -2,6 +2,7 @@
 解题状态说明：ToDo / Attempt / Solved / Done  
 
 ### 解题日记
+#### 第1周
 - 2020.10.28
     - 46 Permutations：每日一题
 - 2020.10.29
@@ -14,8 +15,11 @@
 - 2020.11.01 
     - 140 Word Break II：每日一题；ToDo
     - 139 Word Break：139 前置；ToDo
+#### 第2周  
 - 2020.11.02
-    -  349 Intersection of Two Arrays：每日一题；Solved
+    - [349] Intersection of Two Arrays：每日一题；Solved
+- 2020.11.03
+    - [941] Valid Mountain Array：每日一题；Solved
 
 ### ToDo
 #### 欠债
