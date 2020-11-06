@@ -20,6 +20,12 @@
     - [349] Intersection of Two Arrays：每日一题；Solved
 - 2020.11.03
     - [941] Valid Mountain Array：每日一题；Solved
+- 2020.11.04
+    - [57] Insert Interval：每日一题；ToDo
+- 2020.11.05
+    - [127] Word Ladder：每日一题；ToDo
+- 2020.11.06
+    - [1356] [1356]Sort Integers by The Number of 1 Bits：每日一题；ToDo        
 
 ### ToDo
 #### 欠债

@@ -32,7 +32,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class IntersectionofTwoArrays {
     public int[] intersection(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
