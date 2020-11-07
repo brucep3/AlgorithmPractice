@@ -28,6 +28,7 @@
     - [1356] Sort Integers by The Number of 1 Bits：每日一题；Solved；        
 - 2020.11.07
     - [327] Count of Range Sum：每日一题；
+- 2020.11.08
     
 ### ToDo
 #### 欠债
@@ -37,7 +38,9 @@
 - 140 
 
 ### Taking notes
-- 381 
+- [381] 
+- [1356] 位运算相关和排序相关
+- [327] 线段树和树状数组
 
 ### To Check（截止2020.11.01）
 2 Two Sum  	7468	49.8%	简单	 
