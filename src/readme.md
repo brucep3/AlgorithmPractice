@@ -25,8 +25,10 @@
 - 2020.11.05
     - [127] Word Ladder：每日一题；ToDo
 - 2020.11.06
-    - [1356] [1356]Sort Integers by The Number of 1 Bits：每日一题；ToDo        
-
+    - [1356] Sort Integers by The Number of 1 Bits：每日一题；Solved；        
+- 2020.11.07
+    - [327] Count of Range Sum：每日一题；
+    
 ### ToDo
 #### 欠债
 
