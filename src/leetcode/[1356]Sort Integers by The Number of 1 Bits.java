@@ -61,11 +61,63 @@ package leetcode;
 // 👍 85 👎 0
 
 
+import java.util.*;
+
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public int[] sortByBits(int[] arr) {
-        return new int[1];
+class SortIntegersbyTheNumberof1Bits {
+    /**
+     * 位运算：n & n -1 可以消去二进制表示的n的最后一个1
+     * @param num
+     * @return
+     */
+    public static int count1s(int num) {
+        int count = 0;
+        while (num > 0) {
+            num = num & (num-1);
+            count++;
+        }
+        return count;
     }
+
+    public int[] sortByBits(int[] arr) {
+        List<Integer[]> list = new ArrayList<>();
+        for (int j : arr) {
+            list.add(new Integer[]{j, count1s(j)});
+        }
+        // 排序
+        Comparator<Integer[]> comparator = new Comparator<Integer[]>() {
+            @Override
+            public int compare(Integer[] o1, Integer[] o2) {
+                if (o1[1] > o2[1]) {
+                    return 1;
+                } else if (o1[1] < o2[1]) {
+                    return -1;
+                } else if (o1[1] == o2[1] && o1[0] < o2[0]) {
+                    return -1;
+                } else if (o1[1] == o2[1] && o1[0] > o2[0]) {
+                    return 1;
+                }
+                // o1[1] == o2[1] && o1[0] == o2[0]
+                return 0;
+            }
+        };
+        Collections.sort(list, comparator);
+        int[] result = new int[arr.length];
+        int i = 0;
+        for (Integer[] e :
+                list) {
+            result[i] = e[0];
+            i++;
+        }
+        return  result;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{0, 1, 2, 3, 4, 5, 6, 7, 8};
+        SortIntegersbyTheNumberof1Bits s = new SortIntegersbyTheNumberof1Bits();
+        System.out.println(s.sortByBits(arr));
+    }
+
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
