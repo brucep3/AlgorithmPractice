@@ -30,6 +30,8 @@
     - [327] Count of Range Sum：每日一题；
 - 2020.11.08
     - [122] Best Time to Buy and Sell Stock II：每日一题；Solved；
+- 2020.11.09  
+    - [973] K Closest Points to Origin每日一题；显然不是最优解；
     
 ### ToDo
 #### 欠债
