@@ -4,35 +4,45 @@
 ### 解题日记
 #### 第1周
 - 2020.10.28
-    - 46 Permutations：每日一题
+    - [46]Permutations：每日一题
 - 2020.10.29
-    - 129 Sum Root to Leaf Numbers：每日一题
+    - [129]Sum Root to Leaf Numbers：每日一题
 - 2020.10.30
-    - 36 Valid Sudoku：每日一题
+    - [36]Valid Sudoku：每日一题
 - 2020.10.31
-    - 381 Insert Delete GetRandom O(1) - Duplicates allowed：每日一题；Solved; To take notes
-    - 380 Insert Delete GetRandom O(1)：381前置，Done
+    - [381]Insert Delete GetRandom O(1) - Duplicates allowed：每日一题；Solved; To take notes
+    - [380]Insert Delete GetRandom O(1)：381前置，Done
 - 2020.11.01 
-    - 140 Word Break II：每日一题；ToDo
-    - 139 Word Break：139 前置；ToDo
+    - [140]Word Break II：每日一题；ToDo
+    - [139]Word Break：139 前置；ToDo
 #### 第2周  
 - 2020.11.02
-    - [349] Intersection of Two Arrays：每日一题；Solved
+    - [349]Intersection of Two Arrays：每日一题；Solved
 - 2020.11.03
-    - [941] Valid Mountain Array：每日一题；Solved
+    - [941]Valid Mountain Array：每日一题；Solved
 - 2020.11.04
-    - [57] Insert Interval：每日一题；ToDo
+    - [57]Insert Interval：每日一题；ToDo
 - 2020.11.05
-    - [127] Word Ladder：每日一题；ToDo
+    - [127]Word Ladder：每日一题；ToDo
 - 2020.11.06
-    - [1356] Sort Integers by The Number of 1 Bits：每日一题；Solved；        
+    - [1356]Sort Integers by The Number of 1 Bits：每日一题；Solved；        
 - 2020.11.07
-    - [327] Count of Range Sum：每日一题；
+    - [327]Count of Range Sum：每日一题；
 - 2020.11.08
-    - [122] Best Time to Buy and Sell Stock II：每日一题；Solved；
+    - [122]Best Time to Buy and Sell Stock II：每日一题；Solved；
 - 2020.11.09  
-    - [973] K Closest Points to Origin每日一题；显然不是最优解；
-    
+    - [973]K Closest Points to Origin：每日一题；显然不是最优解；
+- 2020.11.10  
+    - [31] Next Permutation：每日一题；ToDo; 
+- 2020.11.11  
+    - [514]Freedom Trail：每日一题；ToDo;  
+- 2020.11.12  
+    - [922]Sort Array By Parity II：每日一题；ToDo 
+- 2020.11.13  
+    - [922]Sort Array By Parity II：每日一题；ToDo 
+- 2020.11.14  
+    - [1122]Relative Sort Array：每日一题；ToDo 
+        
 ### ToDo
 #### 欠债
 

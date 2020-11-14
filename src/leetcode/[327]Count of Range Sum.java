@@ -27,15 +27,30 @@ package leetcode;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+    public static int[] t;
     /**
      * 读题：给出上限和下线，计算数组中，坐标连续数组元素的和在上限和下限之间，这样的区间个数
-     * @param nums
-     * @param lower
-     * @param upper
-     * @return
      */
     public int countRangeSum(int[] nums, int lower, int upper) {
+        // 建立线段树
+        t = new int[nums.length * 4];
+        buildTree(nums, 1, 1, t.length);
         return 0;
+    }
+
+    /**
+     * 建立线段树：后续遍历
+     */
+    public static void buildTree(int a[], int v, int tl, int tr) {
+        if (tl == tr) {
+            t[v] = a[tl];
+        } else {
+            int tm = (tl + tr) / 2;
+            buildTree(a, v*2, tl, tm);
+            buildTree(a, v*2+1, tm+1, tr);
+            t[v] = t[v * 2] + t[v * 2 + 1];
+        }
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
