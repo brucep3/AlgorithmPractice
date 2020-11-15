@@ -26,7 +26,7 @@ package leetcode;
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class RelativeSortArray {
     public static int[] t;
     /**
      * 读题：给出上限和下线，计算数组中，坐标连续数组元素的和在上限和下限之间，这样的区间个数

@@ -30,6 +30,7 @@
     - [327]Count of Range Sum：每日一题；
 - 2020.11.08
     - [122]Best Time to Buy and Sell Stock II：每日一题；Solved；
+#### 第3周 
 - 2020.11.09  
     - [973]K Closest Points to Origin：每日一题；显然不是最优解；
 - 2020.11.10  
@@ -42,7 +43,10 @@
     - [922]Sort Array By Parity II：每日一题；ToDo 
 - 2020.11.14  
     - [1122]Relative Sort Array：每日一题；ToDo 
-        
+- 2020.11.15  
+    - [402]Remove K Digits  ：每日一题；ToDo 
+#### 第4周 
+            
 ### ToDo
 #### 欠债
 

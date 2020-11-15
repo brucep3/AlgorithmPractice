@@ -1,10 +1,5 @@
 package leetcode;
 
-class RelativeSortArray {
-
-
-}
-
 //Given two arrays arr1 and arr2, the elements of arr2 are distinct, and all ele
 //ments in arr2 are also in arr1.
 //
@@ -31,9 +26,9 @@ class RelativeSortArray {
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class RelativeSortArray2 {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
-        
+
         return new int[1];
     }
 }
