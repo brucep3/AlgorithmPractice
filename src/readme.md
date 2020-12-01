@@ -46,7 +46,9 @@
 - 2020.11.15  
     - [402]Remove K Digits  ：每日一题；ToDo 
 #### 第4周 
-            
+- 2020.12.1  
+    - [34]Find First and Last Position of Element in Sorted Array：每日一题；ToDo 
+                
 ### ToDo
 #### 欠债
 
