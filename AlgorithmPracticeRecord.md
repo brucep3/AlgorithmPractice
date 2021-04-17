@@ -1,0 +1,25 @@
+NOTES: js文件命名直接复制leetcodeURL里题名 
+
+- 2021.04.01: Clumsy Factorial(lc-1006) 
+- 2021.04.02: 直方图的水量(程序员面试金典-17.21, TODO) 
+- 2021.04.04: Rabbits in Forest(lc-781) 
+- 2021.04.05: Merge Sorted Array(lc-88) 
+- 2021.04.06: Remove Duplicates from Sorted Array I, II(lc-26, lc-80)  
+- 2021.04.07: Search in Rotated Array I & II（lc-81）, 数组中重复的数字（剑指offer-03） 
+- 2021.04.08: Find Minimum in Rotated Sorted Array(lc-153) 
+- 2021.04.09: Find Minimum in Rotated Sorted Array II(lc-154), search-a-2d-matrix(lc-74), search-a-2d-matrix-ii(lc-240，与剑指Offer-04 二维数组中的查找相同) 
+- 2021.04.12: 斐波那契数列（剑指Offer-10-I）, Largest Number(lc-179) 
+- 2021.04.13: Minimum Distance Between BST Nodes(lc-783), Minimum Absolute Difference in BST(lc-530), Binary Tree Inorder Traversal(lc-94), 
+  Binary Tree Preorder Traversal(lc-144), Binary Tree Postorder Traversal(lc-145), Binary Tree Level Order Traversal(lc-102), 
+  Binary Tree Zigzag Level Order Traversal(lc-103), Binary Tree Level Order Traversal II(lc-107), 
+  Maximum Depth of Binary Tree(lc-104，与剑指 Offer-55-I相同), Diameter of Binary Tree(lc-543), 
+- 2021.04.14: Symmetric Tree (lc-101), Path Sum(lc-112), Kth Smallest Element in a BST(lc-230),
+  Second Minimum Node In a Binary Tree(lc-671)
+- 2021.04.15: House Robber I, II(lc-198, lc-213), Find Mode in Binary Search Tree(lc-501), Validate Binary Search Tree(lc-98), 
+  Find Mode in Binary Search Tree(lc-501), Path Sum I, II, III(lc-112, lc-113, lc-437), Binary Tree Paths(lc-257)
+- 2021.04.16: Scramble String(lc-87, TODO), Construct Binary Search Tree from Preorder Traversal(lc-1008), Insert into a Binary Search Tree (lc-701),
+  Construct Binary Tree from Inorder and Postorder Traversal(lc-106), Lowest Common Ancestor of a Binary Search Tree(lc-235),
+  Lowest Common Ancestor of a Binary Tree(lc-236) 
+
+
+ 
