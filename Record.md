@@ -1,4 +1,4 @@
-NOTES: js文件命名直接复制leetcodeURL里题名 
+NOTES: js文件命名直接复制 leetcode URL 里题名 
 
 - 2021.04.01: Clumsy Factorial(lc-1006) 
 - 2021.04.02: 直方图的水量(程序员面试金典-17.21, TODO) 
@@ -21,7 +21,7 @@ NOTES: js文件命名直接复制leetcodeURL里题名
   Construct Binary Tree from Inorder and Postorder Traversal(lc-106), Lowest Common Ancestor of a Binary Search Tree(lc-235),
   Lowest Common Ancestor of a Binary Tree(lc-236)
 - 2021.04.18: Invert Binary Tree(lc-226,剑指 Offer-27), Convert BST to Greater Tree(lc-538), Merge Two Binary Trees(lc-617),  
-  Balanced Binary Tree(lc-110), 树的子结构(剑指 Offer-26)  
-
+  Balanced Binary Tree(lc-110), 树的子结构(剑指 Offer-26)
+- 2021.04.19: Remove Element(lc-27), Binary Tree Maximum Path Sum(lc-124) 
 
  
