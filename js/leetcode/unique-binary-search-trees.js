@@ -1,6 +1,7 @@
 /**
  * 卡特兰数
  * 1 -> 1, 2 -> 2
+ * TODO: 优化
  * @param {number} n
  * @return {number}
  */

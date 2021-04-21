@@ -175,7 +175,6 @@ var levelOrderTraverse = function (root) {
 // TODO: Template here
 
 /**
- * TODO: Solve Problem
  * 以下搜集自：https://juejin.cn/post/6844904175562653710#heading-99
  * 已知二叉树求值：二叉树的深度（lc-104，剑指Offer-55-I）、二叉树的最近公共祖先(lc-236)、二叉树的直径(lc-543)；
  * 二叉树的判断和操作：判断对称二叉树(lc-101)、翻转二叉树（lc-226）、合并二叉树(lc-617)、树的子结构（剑指Offer-26）、
@@ -187,6 +186,6 @@ var levelOrderTraverse = function (root) {
  */
 
 /**
- * TODO:完善测试用例
+ * TODO: 完善测试用例
  * 根据js的依赖关系树tree，输出合理的打包顺序的数组（阿里面试题）
  */
