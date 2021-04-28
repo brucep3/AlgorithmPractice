@@ -26,6 +26,10 @@ NOTES: js文件命名直接复制 leetcode URL 里题名
 - 2021.04.20: Implement strStr(lc-28), Convert BST to Greater Tree(lc-538), 二叉搜索树的后序遍历序列(剑指Offer-33),
   二叉搜索树与双向链表(剑指 Offer-36), Fibonacci Number(lc-509), Unique Binary Search Trees(lc-96)
 - 2021.04.21: Decode Ways(lc-91)    
+- 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
+- 2021.04.27: Range Sum of BST(lc-938) 
+- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70), House Robber III(lc-337), 
+
 
 
  

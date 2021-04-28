@@ -5,6 +5,22 @@
  */
 
 /**
+ * 总共11道题
+ * 栈和队列：
+ * Implement Queue using Stacks（lc-232),
+ * Min Stack(lc-155, same with 剑指Offer-30),
+ * Implement Stack using Queues (lc-225),
+ * Sliding Window Maximum(lc-239, same with 剑指Offer-59-I),
+ * Valid Parentheses(lc-20),
+ * Decode String(lc-394),
+ * Queue Reconstruction by Height(lc-406),
+ * Basic Calculator I, II, III (lc-224, 227),
+ * Evaluate Reverse Polish Notation(lc-150),
+ * Validate Stack Sequences(lc-946),
+ * Kth Largest Element in an Array(lc-215)
+ */
+
+/**
  * 栈：只允许在栈顶入栈和出栈的线性结构
  * 基本操作：push, pop
  * 实现：数组或链表

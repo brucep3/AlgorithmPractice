@@ -189,3 +189,38 @@ var levelOrderTraverse = function (root) {
  * TODO: 完善测试用例
  * 根据js的依赖关系树tree，输出合理的打包顺序的数组（阿里面试题）
  */
+
+/**
+ * 二叉树生成：层序遍历的反向操作
+ */
+// treeNode构造器
+class treeNode {
+    constructor(val, left, right) {
+        this.val = (val == undefined ? 0 : val);
+        this.left = (left == undefined ? null : left);
+        this.right = (right == undefined ? null : right);
+    }
+}
+
+// 生成二叉树
+function generateBinarySearchTree(arr) {
+    let root = new treeNode(arr[0]),
+        curr = root,
+        queue = [],
+        n = 0;
+    queue.push(curr);
+    while(queue.length > 0) {
+        let size = queue.length;
+        for(let i=0; i<size; i++) {
+            curr = queue.pop();
+            curr.left = arr[n+1] ? new treeNode(arr[n+1]) : null;
+            curr.left && queue.unshift(curr.left); // 如果是null就不入队
+            n++;
+
+            curr.right = arr[n+1] ? new treeNode(arr[n+1]) : null;
+            curr.right && queue.unshift(curr.right); // 如果是null就不入队
+            n++;
+        }
+    }
+    return root;
+}
