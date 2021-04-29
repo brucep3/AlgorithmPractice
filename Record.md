@@ -28,7 +28,8 @@ NOTES: js文件命名直接复制 leetcode URL 里题名
 - 2021.04.21: Decode Ways(lc-91)    
 - 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
 - 2021.04.27: Range Sum of BST(lc-938) 
-- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70), House Robber III(lc-337), 
+- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70), House Robber III(lc-337)
+- 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II, III (lc-55, 45, 1306) 
 
 
 
