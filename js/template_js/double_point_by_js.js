@@ -1,8 +1,9 @@
 // 双指针
 
 /**
- * 17道题
- * 双指针（快慢指针）：slow point, fast point
+ * 双指针
+ * 总共17道题；
+ * 双指针又称为快慢指针，slow point, fast point
  * n数字之和：Two Sum(lc-1), 3Sum(lc-15), 3Sum Closest(lc-16)，4Sum(lc-18);
  * 雨水、容器类问题：Container With Most Water(lc-11), Trapping Rain Water I, II(lc-42, 407),
  * Minimum Size Subarray Sum(lc-209)；

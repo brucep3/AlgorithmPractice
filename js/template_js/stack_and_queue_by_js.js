@@ -5,8 +5,8 @@
  */
 
 /**
- * 总共11道题
- * 栈和队列：
+ * 栈和队列
+ * 总共11道题；
  * Implement Queue using Stacks（lc-232),
  * Min Stack(lc-155, same with 剑指Offer-30),
  * Implement Stack using Queues (lc-225),

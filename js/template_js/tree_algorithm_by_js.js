@@ -141,7 +141,7 @@ var postorderTraverseNonrecursive = function (root) {
             stack1.push(curNode);
         } else {
             // curNode === null，从栈中取
-            curNode = stack1[stack1.length-1];
+            curNode = stack1[stack1.length - 1];
             if ((curNode.left === null && curNode.right === null) || curNode.right === preNode) {
                 visit(curNode);
                 preNode = stack1.pop();
@@ -175,7 +175,8 @@ var levelOrderTraverse = function (root) {
 // TODO: Template here
 
 /**
- * 以下搜集自：https://juejin.cn/post/6844904175562653710#heading-99
+ * 二叉树
+ * 总共28道题
  * 已知二叉树求值：二叉树的深度（lc-104，剑指Offer-55-I）、二叉树的最近公共祖先(lc-236)、二叉树的直径(lc-543)；
  * 二叉树的判断和操作：判断对称二叉树(lc-101)、翻转二叉树（lc-226）、合并二叉树(lc-617)、树的子结构（剑指Offer-26）、
  * 判断平衡二叉树(lc-110,剑指Offer-55-II)；
@@ -185,42 +186,46 @@ var levelOrderTraverse = function (root) {
  * 二叉搜索树与双向链表(剑指Offer-36)、不同的二叉搜索树(lc-96)；
  */
 
-/**
- * TODO: 完善测试用例
- * 根据js的依赖关系树tree，输出合理的打包顺序的数组（阿里面试题）
- */
 
 /**
- * 二叉树生成：层序遍历的反向操作
+ * 二叉树生成，层序遍历的反向操作，用于Leetcode自测
+ * @param arr
+ * @returns {treeNode}
  */
-// treeNode构造器
-class treeNode {
-    constructor(val, left, right) {
-        this.val = (val == undefined ? 0 : val);
-        this.left = (left == undefined ? null : left);
-        this.right = (right == undefined ? null : right);
-    }
-}
-
-// 生成二叉树
 function generateBinarySearchTree(arr) {
+    /**
+     * treeNode构造器
+     */
+    class treeNode {
+        constructor(val, left, right) {
+            this.val = (val == undefined ? 0 : val);
+            this.left = (left == undefined ? null : left);
+            this.right = (right == undefined ? null : right);
+        }
+    }
+
     let root = new treeNode(arr[0]),
         curr = root,
         queue = [],
         n = 0;
     queue.push(curr);
-    while(queue.length > 0) {
+    while (queue.length > 0) {
         let size = queue.length;
-        for(let i=0; i<size; i++) {
+        for (let i = 0; i < size; i++) {
             curr = queue.pop();
-            curr.left = arr[n+1] ? new treeNode(arr[n+1]) : null;
+            curr.left = arr[n + 1] ? new treeNode(arr[n + 1]) : null;
             curr.left && queue.unshift(curr.left); // 如果是null就不入队
             n++;
 
-            curr.right = arr[n+1] ? new treeNode(arr[n+1]) : null;
+            curr.right = arr[n + 1] ? new treeNode(arr[n + 1]) : null;
             curr.right && queue.unshift(curr.right); // 如果是null就不入队
             n++;
         }
     }
     return root;
 }
+
+/**
+ * TODO: 完善测试用例
+ * 根据js的依赖关系树tree，输出合理的打包顺序的数组（阿里面试题）
+ */

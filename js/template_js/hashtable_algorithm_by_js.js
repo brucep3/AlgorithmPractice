@@ -1,8 +1,8 @@
 // 哈希表
 
 /**
- * 总共10道题
- * 哈希表：
+ * 哈希表
+ * 总共10道题；
  * Daily Temperatures(lc-739)
  * Group Anagrams(lc-49)
  * Subarray Sum Equals K(lc-560)
