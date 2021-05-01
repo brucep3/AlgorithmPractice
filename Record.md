@@ -29,7 +29,11 @@ NOTES: js文件命名直接复制 leetcode URL 里题名
 - 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
 - 2021.04.27: Range Sum of BST(lc-938) 
 - 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70), House Robber III(lc-337)
-- 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II, III (lc-55, 45, 1306) 
+- 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II (lc-55, 45) 
+- 2021.04.30: Single Number I (lc-136), Number of 1 Bits(lc-191, 与剑指Offer-15相同) 
+- 2021.05.01: Employee Importance(lc-690),  
+
+
 
 
 
