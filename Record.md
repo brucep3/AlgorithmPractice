@@ -32,7 +32,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II (lc-55, 45) 
 - 2021.04.30: Single Number I (lc-136), Number of 1 Bits(lc-191, 与剑指Offer-15相同) 
 - 2021.05.01: Employee Importance(lc-690)
-- 2021.05.02: Replace All Digits with Characters, Maximum Element After Decreasing and Rearranging  
+- 2021.05.02: Replace All Digits with Characters, Maximum Element After Decreasing and Rearranging 
+- 2021.05.03 Reverse Integer(lc-7) 
+
 
 
 
