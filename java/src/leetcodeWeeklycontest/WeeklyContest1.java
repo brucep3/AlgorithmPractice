@@ -1,6 +1,9 @@
 package leetcodeWeeklycontest;
 
-public class Solution {
+/**
+ * @author bruce
+ */
+public class WeeklyContest1 {
     public int getMinSwaps(String num, int k) {
         return 0;
     }
