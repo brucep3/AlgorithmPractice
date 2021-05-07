@@ -1,4 +1,4 @@
-//A robot is located at the top-left corner of a m x n grid (marked 'Start' in t
+package leetcode;//A robot is located at the top-left corner of a m x n grid (marked 'Start' in t
 //he diagram below).
 //
 // The robot can only move either down or right at any point in time. The robot
@@ -56,7 +56,7 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class UniquePaths {
     public int uniquePaths(int m, int n) {
-
+        return 0;
 
     }
 }

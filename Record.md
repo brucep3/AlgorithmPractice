@@ -39,6 +39,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.03: Reverse Integer(lc-7)
 - 2021.05.04: Paint House III (不会做), Non-decreasing Array(lc-665)
 - 2021.05.05: Delete and Earn(lc-740) 
+- 2021.05.06：Decode XORed Array(lc-1720)  
 
 
 

@@ -77,7 +77,7 @@
 //leetcode submit region begin(Prohibit modification and deletion)
 class LemonadeChange {
     public boolean lemonadeChange(int[] bills) {
-
+        return false;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
