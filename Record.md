@@ -36,10 +36,17 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.04.30: Single Number I (lc-136), Number of 1 Bits(lc-191, 与剑指Offer-15相同) 
 - 2021.05.01: Employee Importance(lc-690)
 - 2021.05.02: Replace All Digits with Characters, Maximum Element After Decreasing and Rearranging 
-- 2021.05.03: Reverse Integer(lc-7)
-- 2021.05.04: Paint House III (不会做), Non-decreasing Array(lc-665)
-- 2021.05.05: Delete and Earn(lc-740) 
-- 2021.05.06：Decode XORed Array(lc-1720)  
+- 2021.05.03: Reverse Integer (lc-7) 
+- 2021.05.04: Paint House III (不会做), Non-decreasing Array (lc-665) 
+- 2021.05.05: Delete and Earn (lc-740) 
+- 2021.05.06：Decode XORed Array (lc-1720) 
+- 2021.05.07: XOR Operation in an Array (lc-1486)
+- 2021.05.08: Find Minimum Time to Finish All Jobs (lc-1723, TODO)
+- 2021.05.09 Minimum Number of Days to Make m Bouquets(lc-1482, TODO)  
+- 2021.05.10: Leaf-Similar Trees(lc-872)  
+- 2021.05.11: Decode XORed Permutation(lc-1734, TODO) 
+- 2021.05.12: XOR Queries of a Subarray(lc-1310) 
+
 
 
 
