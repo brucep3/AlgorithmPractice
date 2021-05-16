@@ -13,9 +13,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.04.13: Minimum Distance Between BST Nodes(lc-783), Minimum Absolute Difference in BST(lc-530), Binary Tree 
   Inorder Traversal(lc-94), 
   Binary Tree Preorder Traversal(lc-144), Binary Tree Postorder Traversal(lc-145), Binary Tree Level Order Traversal 
-  (lc-102), Binary Tree Zigzag Level Order Traversal(lc-103), Binary Tree Level Order Traversal II(lc-107), Maximum 
+  (lc-102, 与剑指Offer-32-ii相同), Binary Tree Zigzag Level Order Traversal(lc-103), Binary Tree Level Order Traversal II(lc-107), Maximum 
   Depth of Binary Tree(lc-104，剑指Offer-55-I), Diameter of Binary Tree(lc-543), 
-- 2021.04.14: Symmetric Tree (lc-101), Path Sum(lc-112), Kth Smallest Element in a BST(lc-230), Second Minimum Node 
+- 2021.04.14: Symmetric Tree (lc-101, 与剑指Offer-28相同), Path Sum(lc-112), Kth Smallest Element in a BST(lc-230), Second Minimum Node 
   In a Binary Tree(lc-671)
 - 2021.04.15: House Robber I, II(lc-198, lc-213), Find Mode in Binary Search Tree(lc-501), Validate Binary Search 
   Tree (lc-98), Find Mode in Binary Search Tree(lc-501), Path Sum I, II, III(lc-112, lc-113, lc-437), Binary Tree 
@@ -31,7 +31,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.04.21: Decode Ways(lc-91)    
 - 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
 - 2021.04.27: Range Sum of BST(lc-938) 
-- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70), House Robber III(lc-337)
+- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70, 与 剑指Offer10-II 相同), House Robber III(lc-337)
 - 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II (lc-55, 45) 
 - 2021.04.30: Single Number I (lc-136), Number of 1 Bits(lc-191, 与剑指Offer-15相同) 
 - 2021.05.01: Employee Importance(lc-690)
@@ -50,6 +50,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.14: Integer to Roman(lc-12)
 - 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现
   一次的字符(剑指Offer-50)   
+- 2021.05.15: Roman to Integer(lc-13), 从尾到头打印链表(剑指Offer-06), 替换空格(剑指Offer-05), Letter Combinations of a Phone 
+  Number(lc-17), Longest Common Prefix(lc-14)  
 
 
 
