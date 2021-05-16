@@ -45,7 +45,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.09 Minimum Number of Days to Make m Bouquets(lc-1482, TODO)  
 - 2021.05.10: Leaf-Similar Trees(lc-872)  
 - 2021.05.11: Decode XORed Permutation(lc-1734, TODO) 
-- 2021.05.12: XOR Queries of a Subarray(lc-1310) 
+- 2021.05.12: XOR Queries of a Subarray(lc-1310)
+- 2021.05.13: Number of Ways to Stay in the Same Place After Some Steps(lc-1269, TODO) 
+- 2021.05.14: Integer to Roman(lc-12)  
+
 
 
 
