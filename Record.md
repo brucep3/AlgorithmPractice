@@ -47,7 +47,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.11: Decode XORed Permutation(lc-1734, TODO) 
 - 2021.05.12: XOR Queries of a Subarray(lc-1310)
 - 2021.05.13: Number of Ways to Stay in the Same Place After Some Steps(lc-1269, TODO) 
-- 2021.05.14: Integer to Roman(lc-12)  
+- 2021.05.14: Integer to Roman(lc-12)
+- 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现
+  一次的字符(剑指Offer-50)   
 
 
 
