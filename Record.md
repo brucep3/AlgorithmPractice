@@ -51,7 +51,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.15: Roman to Integer(lc-13), 从尾到头打印链表(剑指Offer-06), 替换空格(剑指Offer-05), Letter Combinations of a Phone
   Number(lc-17), Longest Common Prefix(lc-14)
 - 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现
-  一次的字符(剑指Offer-50), Ugly Number I, II (lc-263, 264, 与剑指Offer-49相同, TODO)  
+  一次的字符(剑指Offer-50), Ugly Number I, II (lc-263, 264, 与剑指Offer-49相同, TODO)
+- 2021.05.17: Cousins in Binary Tree(lc-993) 
+- 2021.05.18： Count Triplets That Can Form Two Arrays of Equal XOR(lc-1442)
+ 
 
 
 
