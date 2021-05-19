@@ -10,3 +10,18 @@
  * Word Search I, II(lc-79, 212)
  * Restore IP Addresses(lc-93)
  */
+
+function backTrackingTemplate() {
+    // 回溯中止
+    let someCondition = true;
+    if(someCondition) {
+        // 处理正确结果和错误结果
+        return;
+    }
+
+    // 当前可选择哪些结果进行回溯
+    while (true) {
+        backTrackingTemplate();
+        // 可选：当前回溯之后处理
+    }
+}

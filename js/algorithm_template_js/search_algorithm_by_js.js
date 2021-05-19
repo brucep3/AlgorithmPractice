@@ -5,8 +5,11 @@
  * 二分查找
  * 针对有序数列进行查找时，优先考虑二分；
  * 总共10道题；
- * Find Minimum in Rotated Sorted Array I, II(lc-153, 154, 与剑指Offer-11相同), 在排序数组中查找数字(剑指Offer-53-I),
- * 缺失的数字(剑指Offer-53-II), Longest Increasing Subsequence(lc-300), Search a 2D Matrix I, II(lc-74, 240),
+ * Find Minimum in Rotated Sorted Array I, II(lc-153, 154, 与剑指Offer-11相同),
+ * 在排序数组中查找数字(剑指Offer-53-I),
+ * 缺失的数字(剑指Offer-53-II),
+ * Longest Increasing Subsequence(lc-300),
+ * Search a 2D Matrix I, II(lc-74, 240),
  * Pow(x, n) (lc-50), Intersection of Two Arrays I, II (lc-349, 350),
  */
 
