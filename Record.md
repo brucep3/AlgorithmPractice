@@ -53,8 +53,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现
   一次的字符(剑指Offer-50), Ugly Number I, II (lc-263, 264, 与 剑指Offer-49 相同, TODO)
 - 2021.05.17: Cousins in Binary Tree(lc-993) 
-- 2021.05.18： Count Triplets That Can Form Two Arrays of Equal XOR(lc-1442), Min Stack(lc-155, 与 剑指Offer-30 相同), 
+- 2021.05.18: Count Triplets That Can Form Two Arrays of Equal XOR(lc-1442), Min Stack(lc-155, 与 剑指Offer-30 相同), 
   Restore IP Addresses(lc-93) 
+- 2021.05.19: Find Kth Largest XOR Coordinate Value(lc-1738, TOOPTIMIZE)  
  
 
 
