@@ -55,7 +55,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.17: Cousins in Binary Tree(lc-993) 
 - 2021.05.18: Count Triplets That Can Form Two Arrays of Equal XOR(lc-1442), Min Stack(lc-155, 与 剑指Offer-30 相同), 
   Restore IP Addresses(lc-93) 
-- 2021.05.19: Find Kth Largest XOR Coordinate Value(lc-1738, TOOPTIMIZE)  
+- 2021.05.19: Find Kth Largest XOR Coordinate Value(lc-1738, TOOPTIMIZE), 链表中倒数第k个节点(剑指Offer-22),
+  Intersection of Two Linked Lists(lc-160, 与 剑指Offer-52 相同), Merge Two Sorted Lists(lc-21, 与 剑指Offer-25 相同),
+  Two Sum(lc-1) 
+- 2021.05.20: Top K Frequent Words(lc-692),   
  
 
 
