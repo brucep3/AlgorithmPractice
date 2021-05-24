@@ -61,6 +61,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.20: Top K Frequent Words(lc-692)
 - 2021.05.21: Uncrossed Lines(lc-1035, TODO)  
 - 2021.05.22: Chalkboard XOR Game(lc-810, TODO) 
+- 2021.05.23: Maximum XOR With an Element From Array(lc-1707, TODO) 
+- 2021.05.24: Strange Printer(lc-664, TODO) 
  
 
 
