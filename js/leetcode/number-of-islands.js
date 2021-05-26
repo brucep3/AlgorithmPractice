@@ -1,28 +1,35 @@
-// 并查集
-
 /**
- * 并查集
- * 3道题；
- * Number of Islands I, II(lc-200, 305),
- * Surrounded Regions(lc-130)
+ * 方法二：并查集
+ * @param {character[][]} grid
+ * @return {number}
  */
+var numIslands = function (grid) {
+    let m = grid.length, n = grid[0].length;
+    let ufs = new UnionFindSet(m * n);
+    let countZero = 0;
+
+    for (let i = 0; i < grid.length; ++i) {
+        for (let j = 0; j < grid[i].length; ++j) {
+            if (grid[i][j] === "1") {
+                let cur = i * n + j;
+                if (j + 1 < n && grid[i][j + 1] === "1") {
+                    ufs.union(cur, cur + 1);
+                }
+                if (i + 1 < m && grid[i + 1][j] === "1") {
+                    ufs.union(cur, cur + n);
+                }
+            } else if (grid[i][j] === "0") {
+                countZero++;
+            }
+        }
+    }
+
+    return ufs.getCount() - countZero;
+};
+
 
 /**
- * 并查集（Union-find set）
- * 支持 3 种操作：查询，合并，添加
- * - 查询：查询某个元素属于哪个集合；查询的优化：路径压缩（在查询时，将被查询的节点到根节点的路径上的所有节点的父节点设置为根节点，
- * 从而减小树的高度）；递归查询改迭代查询；
- * - 合并：将两个集合合并为一个；合并的优化：按秩合并（在合并时，比较两棵树的大小，较大的一棵树的根节点称为合并后的书的根节点，较小的一
- * 棵树的根节点则成为前者的子节点，从而控制树的深度）
- * - 添加：添加一个新集合
- * 连通的 3 个性质：
- * - 自反性：节点 x 和节点 x 是连通的
- * - 对称性：节点 x 和节点 y 连通， 则节点 y 和节点 x 连通
- * - 传递性：如果节点 x 和 y 连通，y 和 z 连通，那么 x 和 z 也连通。
- */
-
-/**
- * 并查集模板
+ * 并查集模板s
  */
 class UnionFindSet {
     /**
@@ -52,15 +59,6 @@ class UnionFindSet {
         // this.parent[x] != x
         this.parent[x] = this.find(this.parent[x]);
         return this.parent[x];
-    }
-
-    /**
-     * 迭代查询
-     * @param x
-     * @returns {*}
-     */
-    iterativeFind(x) {
-
     }
 
     /**
@@ -110,4 +108,3 @@ class UnionFindSet {
         return this.count;
     }
 }
-
