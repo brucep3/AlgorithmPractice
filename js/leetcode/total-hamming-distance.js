@@ -7,7 +7,7 @@ var totalHammingDistance = function (nums) {
     for (let num of nums) {
         let cInx = 0;
         while (num) {
-            if (num & 1 === 1) countOne[cInx]++;
+            if ( (num & 1) === 1) countOne[cInx]++;
             num >>= 1;
             cInx++;
         }
