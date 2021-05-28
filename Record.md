@@ -67,7 +67,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.25: Make the XOR of All Segments Equal to Zero(lc-1787, TODO), Course Schedule I, II(lc-207, 210)  
 - 2021.05.26: Reverse Substrings Between Each Pair of Parentheses(lc-1190), Number of Islands(lc-200) 
 - 2021.05.27: Hamming Distance(lc-461) 
-
+- 2021.05.28: Total Hamming Distance(lc-477) 
 
 
 
