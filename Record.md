@@ -68,7 +68,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.26: Reverse Substrings Between Each Pair of Parentheses(lc-1190), Number of Islands(lc-200) 
 - 2021.05.27: Hamming Distance(lc-461) 
 - 2021.05.28: Total Hamming Distance(lc-477) 
-
+- 2021.05.29: Number of Submatrices That Sum to Target(lc-1074, TODO) 
+- 2021.05.31: Power of Four(lc-342),    
 
 
 
