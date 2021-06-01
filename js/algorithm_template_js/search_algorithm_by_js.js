@@ -18,13 +18,21 @@
  * @param nums
  * @param target
  */
-var binarySearch = function(nums, target) {
+
+/**
+ * 二分查找 V1：区间 [l, r] 被划分为 [l, mid] 和 [mid + 1, r]
+ * @param nums
+ * @param target
+ * @returns {number}
+ */
+var binarySearchV1 = function (nums, target) {
     // 数组为空
     if (nums.length < 1) return -1;
     // 查找
     let low = 0, high = nums.length - 1, mid;
     while (low <= high) {
-        mid = getMid(low, high);
+        // 溢出；向下取整
+        mid = Math.floor(low + (high - low) / 2);
         if (target === nums[mid]) {
             return mid;
         } else if (target < nums[mid]) {
@@ -34,14 +42,22 @@ var binarySearch = function(nums, target) {
         }
     }
     return -1;
-
-    /**
-     * 注意：计算中间点，mid = low + (high - low) / 2；需要向下取整
-     * @param low
-     * @param high
-     * @returns {number}
-     */
-    function getMid(low, high) {
-        return Math.floor(low + (high - low) / 2);
-    }
 };
+
+/**
+ * 二分查找 V1：区间 [l, r] 被划分为 [l, mid - 1] 和 [mid, r]
+ * @param nums
+ * @param target
+ */
+var binarySearchV2 = function (nums, target) {
+
+}
+
+/**
+ * 检查 x 是否满足某种性质
+ * @param x
+ */
+function check(x) {
+
+}
+

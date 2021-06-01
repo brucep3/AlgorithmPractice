@@ -21,12 +21,7 @@ process.stdin.on('readable', function () {
  * @returns {number[]|*[]}
  */
 function solution(arr, q) {
-    let l = arr.indexOf(q);
-    if (l === -1) {
-        return [-1, -1];
-    }
-    let r = arr.lastIndexOf(q);
-    return [l, r];
+
 }
 
 process.stdin.on('end', function () {

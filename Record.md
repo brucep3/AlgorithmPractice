@@ -69,7 +69,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.27: Hamming Distance(lc-461) 
 - 2021.05.28: Total Hamming Distance(lc-477) 
 - 2021.05.29: Number of Submatrices That Sum to Target(lc-1074, TODO) 
-- 2021.05.31: Power of Four(lc-342),    
+- 2021.05.31: Power of Four(lc-342) 
+- 2021.06.01: Can You Eat Your Favorite Candy on Your Favorite Day?(lc-1744) 
 
 
 
