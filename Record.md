@@ -75,7 +75,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.03: Contiguous Array(lc-525)  
 - 2021.06.04: Linked List Cycle I, II(lc-141, 142), Find First and Last Position of Element in Sorted 
   Array(lc-34, 与 剑指Offer-53-I 相同), Intersection of Two Arrays I, II(lc-349, 350), 数组中的逆序对(剑指Offer-51),
-  Subsets I, II(lc-78, 90)
+  Subsets I, II(lc-78, 90), Maximum Subarray(lc-53), Counting Bits(lc-338) 
 
 
 
