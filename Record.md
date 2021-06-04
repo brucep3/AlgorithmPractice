@@ -71,6 +71,12 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.29: Number of Submatrices That Sum to Target(lc-1074, TODO) 
 - 2021.05.31: Power of Four(lc-342) 
 - 2021.06.01: Can You Eat Your Favorite Candy on Your Favorite Day?(lc-1744) 
+- 2021.06.02: Continuous Subarray Sum(lc-523) 
+- 2021.06.03: Contiguous Array(lc-525)  
+- 2021.06.04: Linked List Cycle I, II(lc-141, 142), Find First and Last Position of Element in Sorted 
+  Array(lc-34, 与 剑指Offer-53-I 相同), Intersection of Two Arrays I, II(lc-349, 350), 数组中的逆序对(剑指Offer-51),
+  Subsets I, II(lc-78, 90)
+
 
 
 
