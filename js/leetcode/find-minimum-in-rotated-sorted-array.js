@@ -1,35 +1,32 @@
 /**
- * TODO: 完善
- * rotate 1次就是将最后位置的数字放在第1个位置；
- * nums.length >= 1；
- * 数字是唯一的；
- * 注意：存在mid就是最小值的情况，不能直接舍去
+ * 读题：数组长度 >= 1
  * @param {number[]} nums
  * @return {number}
  */
-var findMin = function(nums) {
-    let low = 0, high = nums.length - 1, mid;
-    while (low <= high) {
-        mid = Math.floor(low + (high - low) / 2);
-        // 只有2个值
-        if (nums[mid] === nums[low]) {
-            return Math.min(nums[low], nums[high]);
-        }
-        // 最小值为左边值
-        if (nums[mid] > nums[low] && nums[mid] < nums[high]) {
-            return nums[low];
-        }
-        // 最小值为右边值
-        if (nums[mid] < nums[low] && nums[mid] > nums[high]) {
-            return nums[high] + 1;
-        }
-        // 最小值在中点右边
-        if (nums[mid] > nums[low] && nums[mid] > nums[high]) {
-            low = mid ;
-        }
-        // 最小值在中点左边
-        if (nums[mid] < nums[low] && nums[mid] < nums[high]) {
-            high = mid;
-        }
+var findMin = function (nums) {
+    // 消除最后一个数字的非单调性
+    let newEnd = nums.length - 1;
+    for (; newEnd >= 0 && nums[newEnd] === nums[0]; --newEnd) {
     }
+
+    if (newEnd < 0) return nums[nums.length - 1];
+
+    /**
+     * 后半段性质：< nums[0]
+     * 单调递增数组将返回最后一个数字
+     */
+    const bs = (q, l, r) => {
+        while (l < r) {
+            let mid = l + r >> 1;
+            if (q[mid] < q[0]) {
+                r = mid;
+            } else {
+                l = mid + 1;
+            }
+        }
+        return l;
+    };
+
+    let ans = nums[bs(nums, 0, newEnd)];
+    return Math.min(ans, nums[0]);
 };
