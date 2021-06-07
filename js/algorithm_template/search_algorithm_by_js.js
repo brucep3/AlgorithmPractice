@@ -13,7 +13,8 @@
  * 缺失的数字(剑指Offer-53-II),
  * Longest Increasing Subsequence(lc-300),
  * Search a 2D Matrix I, II(lc-74, 240),
- * Pow(x, n) (lc-50), Intersection of Two Arrays I, II (lc-349, 350),
+ * Pow(x, n) (lc-50),
+ * Intersection of Two Arrays I, II (lc-349, 350),
  */
 
 /**
@@ -42,10 +43,12 @@ var binarySearchV1 = function (nums, target) {
 };
 
 /**
- * 整数二分查找算法模板V1：区间[l, r]被划分成[l, mid]和[mid + 1, r]时使用
+ * 整数二分查找算法模板V1
+ * 用于查找后半段的左边界
+ * 区间[l, r]被划分成[l, mid]和[mid + 1, r]时使用
  * @param {number} l
  * @param {number} r
- * @returns {number}
+ * @returns {number} l
  */
 var bSearchV1 = function (l, r) {
     while (l < r) {
@@ -58,7 +61,9 @@ var bSearchV1 = function (l, r) {
 }
 
 /**
- * 整数二分查找算法模板V2：区间[l, r]被划分成[l, mid - 1]和[mid, r]时使用
+ * 整数二分查找算法模板V2
+ * 用于查找前半段的右边界
+ * 区间[l, r]被划分成[l, mid - 1]和[mid, r]时使用
  * @param {number} l
  * @param {number} r
  * @returns {number}
@@ -74,6 +79,7 @@ var bSearchV2 = function (l, r) {
 
 /**
  * 浮点数二分算法模板
+ * 用于计算
  * @param l
  * @param r
  * @returns {*}
@@ -87,6 +93,8 @@ var bSearchFloat = function (l, r) {
     }
     return l;
 }
+
+// 浮点二分法：次数迭代
 
 /**
  * 检查 x 是否满足某种性质
