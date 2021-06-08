@@ -37,12 +37,12 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.05.01: Employee Importance(lc-690)
 - 2021.05.02: Replace All Digits with Characters, Maximum Element After Decreasing and Rearranging 
 - 2021.05.03: Reverse Integer (lc-7) 
-- 2021.05.04: Paint House III (不会做), Non-decreasing Array (lc-665) 
+- 2021.05.04: Paint House III (不会做, TODO), Non-decreasing Array (lc-665) 
 - 2021.05.05: Delete and Earn (lc-740) 
 - 2021.05.06：Decode XORed Array (lc-1720) 
 - 2021.05.07: XOR Operation in an Array (lc-1486)
 - 2021.05.08: Find Minimum Time to Finish All Jobs (lc-1723, TODO)
-- 2021.05.09 Minimum Number of Days to Make m Bouquets(lc-1482, TODO)  
+- 2021.05.09: Minimum Number of Days to Make m Bouquets(lc-1482, TODO)  
 - 2021.05.10: Leaf-Similar Trees(lc-872)  
 - 2021.05.11: Decode XORed Permutation(lc-1734, TODO) 
 - 2021.05.12: XOR Queries of a Subarray(lc-1310)
@@ -76,10 +76,12 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.04: Linked List Cycle I, II(lc-141, 142), Find First and Last Position of Element in Sorted 
   Array(lc-34, 与 剑指Offer-53-I 相同), Intersection of Two Arrays I, II(lc-349, 350), 数组中的逆序对(剑指Offer-51),
   Subsets I, II(lc-78, 90), Maximum Subarray(lc-53), Counting Bits(lc-338) 
-- 2021.06.06: Remove Linked List Elements(lc-203), Evaluate Reverse Polish Notation(lc-150), Valid Parentheses(lc-20),
+- 2021.06.06:  Ones and Zeroes(lc-474, TODO), Remove Linked List Elements(lc-203), Evaluate Reverse Polish Notation(lc-150), Valid Parentheses(lc-20),
   validate-stack-sequences(lc-946), 0～n-1中缺失的数字(剑指Offer-53-II) 
 - 2021.06.07: Unique Paths I, II(lc-62, 63), Target Sum(lc-494, TODO), Triangle(lc-120)
-  
+- 2021.06.08: Last Stone Weight II(lc-1049, TODO), Edit Distance(lc-72, TODO), Maximal Square(lc-221, TODO),
+  Best Time to Buy and Sell Stock I, II(lc-121, 122)
+
 
 
 
