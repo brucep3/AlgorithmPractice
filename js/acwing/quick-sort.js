@@ -14,16 +14,6 @@ process.stdin.on('readable', function () {
     if (chunk) buf += chunk.toString();
 });
 
-/**
- * Solution
- * @param arr
- * @param q
- * @returns {number[]|*[]}
- */
-function solution(arr, q) {
-
-}
-
 // noinspection DuplicatedCode
 /**
  * 快排
