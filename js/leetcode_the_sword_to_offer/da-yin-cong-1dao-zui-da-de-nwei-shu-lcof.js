@@ -1,5 +1,4 @@
 /**
- *
  * @param {number} n 正整数， n >= 1
  * @return {number[]}
  */
