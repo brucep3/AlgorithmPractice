@@ -4,7 +4,6 @@
 
 // 898. 数字三角形
 
-#include <iostream>
 #include <algorithm>
 
 using namespace std;
