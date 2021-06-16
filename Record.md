@@ -10,18 +10,28 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-88. Merge Sorted Array
 - 2021.04.06
     - lc-26, lc-80. Remove Duplicates from Sorted Array I, II
-- 2021.04.07: Search in Rotated Array I & II（lc-81）, 数组中重复的数字（剑指offer-03）
-- 2021.04.08: Find Minimum in Rotated Sorted Array(lc-153)
+- 2021.04.07
+    - lc-33, 81. Search in Rotated Array I & II
+    - 剑指offer-03. 数组中重复的数字
+- 2021.04.08
+    - lc-153. Find Minimum in Rotated Sorted Array
 - 2021.04.09:
-  Find Minimum in Rotated Sorted Array II(lc-154), search-a-2d-matrix(lc-74), search-a-2d-matrix-ii(lc-240，与剑指Offer-04
-  二维数组中的查找相同)
+    - lc-154. Find Minimum in Rotated Sorted Array II
+    - lc-74, lc-240, 剑指Offer-04. Search a 2D Matrix I, II
 - 2021.04.12:
-  斐波那契数列（剑指Offer-10-I）, Largest Number(lc-179)
-- 2021.04.13: Minimum Distance Between BST Nodes(lc-783), Minimum Absolute Difference in BST(lc-530), Binary Tree
-  Inorder Traversal(lc-94), Binary Tree Preorder Traversal(lc-144), Binary Tree Postorder Traversal(lc-145), Binary Tree
-  Level Order Traversal
-  (lc-102, 与剑指Offer-32-ii相同), Binary Tree Zigzag Level Order Traversal(lc-103), Binary Tree Level Order Traversal II(
-  lc-107), Maximum Depth of Binary Tree(lc-104，剑指Offer-55-I), Diameter of Binary Tree(lc-543),
+    - 剑指Offer-10-I. 斐波那契数列
+    - lc-179. Largest Number
+- 2021.04.13
+    - lc-783. Minimum Distance Between BST Nodes
+    - lc-530. Minimum Absolute Difference in BST
+    - lc-94. Binary Tree Inorder Traversal
+    - lc-144. Binary Tree Preorder Traversal
+    - lc-145. Binary Tree Postorder Traversal
+    - lc-102, 剑指Offer-32-ii. Binary Tree Level Order Traversal
+    - lc-103. Binary Tree Zigzag Level Order Traversal
+    - lc-107. Binary Tree Level Order Traversal II
+    - lc-104, 剑指Offer-55-I. Maximum Depth of Binary Tree
+    - lc-543. Diameter of Binary Tree
 - 2021.04.14: Symmetric Tree (lc-101, 与剑指Offer-28相同), Path Sum(lc-112), Kth Smallest Element in a BST(lc-230), Second
   Minimum Node In a Binary Tree(lc-671)
 - 2021.04.15: House Robber I, II(lc-198, lc-213), Find Mode in Binary Search Tree(lc-501), Validate Binary Search Tree (
@@ -59,9 +69,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
   lc-17), Longest Common Prefix(lc-14)
 - 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现 一次的字符(
   剑指Offer-50), Ugly Number I, II (lc-263, 264, 与 剑指Offer-49 相同, TODO)
-- 2021.05.17: Cousins in Binary Tree(lc-993)
+- 2021.05.17
+    - lc-993. Cousins in Binary Tree
 - 2021.05.18
-    - Count Triplets That Can Form Two Arrays of Equal XOR(lc-1442),
+    - lc-1442. Count Triplets That Can Form Two Arrays of Equal XOR
     - Min Stack(lc-155, 与 剑指Offer-30 相同),
     - Restore IP Addresses(lc-93)
 - 2021.05.19
@@ -85,8 +96,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-54, 59, 剑指Offer-29. spiral-matrix I, II
     - lc-146. LRU Cache (TODO: 优化)
 - 2021.05.25
-    - Make the XOR of All Segments Equal to Zero(lc-1787, TODO)
-    - Course Schedule I, II(lc-207, 210)
+    - lc-1787. Make the XOR of All Segments Equal to Zero (TODO)
+    - lc-207, 210. Course Schedule I, II
 - 2021.05.26
     - lc-1190. Reverse Substrings Between Each Pair of Parentheses
     - lc-200. Number of Islands
@@ -127,11 +138,11 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1049. Last Stone Weight II (TODO)
     - lc-72. Edit Distance (TODO)
     - lc-221. Maximal Square (TODO)
-    - lc-121, 122. Best Time to Buy and Sell Stock I, II
+    - lc-121, 122, 剑指 Offer 63. Best Time to Buy and Sell Stock I, II
     - lc-1000. Minimum Cost to Merge Stones (TODO)
 - 2021.06.09
     - lc-879. Profitable Schemes (TODO)
-    - lc-50. Pow(x, n)
+    - lc-50, 剑指Offer-16. Pow(x, n)
     - 剑指Offer-17. 打印从1到最大的n位数 LCOF
 - 2021.06.10
     - lc-322, 518. Coin Change I, II
@@ -141,7 +152,18 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-16. 3Sum Closest
     - lc-11. Container With Most Water
     - lc-2. Add Two Numbers
-  
+    - lc-415. Add Strings
+    - lc-560. subarray-sum-equals-k
+- 2021.06.12
+    - lc-1449. Form Largest Integer With Digits That Add up to Target (TODO)
+- 2021.06.13
+    - lc-278. First Bad Version 
+- 2021.06.14
+    - lc-374. Guess Number Higher or Lower 
+- 2021.06.15
+    - lc-852. Peak Index in a Mountain Array
+- 2021.06.16
+    - lc-877. Stone Game (TODO: DP)
 
 
 
