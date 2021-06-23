@@ -21,3 +21,27 @@
  * 链表技巧
  * - 哨兵节点（头节点）：头节点的下一个结点是实际节点的第一个，命名为 preHead 或 dummyHead;
  */
+
+/**
+ * 双指针（单个序列快慢指针）模板
+ */
+var doublePointTemplateV1 = () => {
+    // f(ast), s(low)
+    for (let fast = 0, slow = 0; fast < n; fast++) {
+        while (slow <= fast && check(fast, slow)) slow++;
+    }
+}
+
+/**
+ * 双指针（单个序列左右指针）模板
+ */
+var doublePointTemplateV2 = () => {
+    // l(eft), r(ight)
+}
+
+/**
+ * 双指针（两个序列）
+ */
+var doublePointTemplateV3 = () => {
+    // p1(point1), p2(point2)
+}

@@ -61,10 +61,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-27. Remove Element
     - lc-124. Binary Tree Maximum Path Sum
 - 2021.04.20:
-    - lc-28. Implement strStr(),
-    - Convert BST to Greater Tree(lc-538),
-    - 二叉搜索树的后序遍历序列(剑指Offer-33),
-    - 二叉搜索树与双向链表(剑指Offer-36),
+    - lc-28. Implement strStr
+    - lc-538. Convert BST to Greater Tree
+    - 剑指Offer-33. 二叉搜索树的后序遍历序列
+    - 剑指Offer-36. 二叉搜索树与双向链表
     - Fibonacci Number(lc-509),
     - Unique Binary Search Trees(lc-96)
 - 2021.04.21: Decode Ways(lc-91)
@@ -215,6 +215,12 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-392. Is Subsequence
     - AcWing-799. 最长连续不重复子序列
     - AcWing-801. 二进制中1的个数
+    - lc-46. Permutations
+    - lc-64. Minimum Path Sum
+    - lc-125, 680. Valid Palindrome I, II
+    - lc-209. Minimum Size Subarray Sum
+    - lc-18. 4Sum
+    - 剑指Offer-65. 不用加减乘除做加法
   
 
 
