@@ -2,7 +2,11 @@
 // Created by bruce on 2021/6/3.
 //
 
-// 785. 快速排序
+//
+/**
+ * AcWing-785. 快速排序
+ * 题目链接：https://www.acwing.com/problem/content/787/
+ */
 
 #include <iostream>
 

@@ -1,5 +1,4 @@
 /**
- * TODO
  * @Description
  * AcWing-799. 最长连续不重复子序列
  * 题目链接：https://www.acwing.com/problem/content/801/
@@ -28,5 +27,21 @@ process.stdin.on("end", function () {
 });
 
 var maxLenOfNonRepeatSubseq = function (nums) {
-
+    let max = 0, idxMap = new Map(); // [slow, fast)
+    for (let slow = 0, fast = 0; fast < nums.length;) {
+        while (fast < nums.length
+            && (!idxMap.has(nums[fast]) || idxMap.get(nums[fast]) < slow)
+            ) {
+            idxMap.set(nums[fast], fast);
+            fast++;
+        }
+        // 到达末尾 || 有重复
+        max = Math.max(fast - slow, max);
+        // 有重复
+        if (fast < nums.length) {
+            slow = idxMap.get(nums[fast]) + 1;
+        }
+        // 到达末尾
+    }
+    return max;
 };

@@ -56,7 +56,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-538. Convert BST to Greater Tree
     - lc-617. Merge Two Binary Trees
     - lc-110. Balanced Binary Tree
-    - 剑指 Offer-26. 树的子结构
+    - 剑指Offer-26. 树的子结构
 - 2021.04.19:
     - lc-27. Remove Element
     - lc-124. Binary Tree Maximum Path Sum
@@ -65,9 +65,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-538. Convert BST to Greater Tree
     - 剑指Offer-33. 二叉搜索树的后序遍历序列
     - 剑指Offer-36. 二叉搜索树与双向链表
-    - Fibonacci Number(lc-509),
-    - Unique Binary Search Trees(lc-96)
-- 2021.04.21: Decode Ways(lc-91)
+    - lc-509. Fibonacci Number
+    - lc-96. Unique Binary Search Trees
+- 2021.04.21
+    - lc-91. Decode Ways
 - 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
 - 2021.04.27: Range Sum of BST(lc-938)
 - 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70, 与 剑指Offer10-II 相同), House Robber III(lc-337)
@@ -201,7 +202,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-797. 差分
     - AcWing-798. 差分矩阵 (TODO)
     - lc-445. Add Two Numbers II
-    - lc-3. Longest1 Substring Without Repeating Characters
+    - lc-3. Longest Substring Without Repeating Characters
 - 2021.06.19
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20
@@ -209,7 +210,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.21
     - lc-401. Binary Watch (TODO)
 - 2021.06.22
-    - 剑指 Offer 38. 字符串的排列 (TODO)
+    - 剑指Offer-38. 字符串的排列 (TODO)
 - 2021.06.23
     - lc-22. Generate Parentheses
     - lc-392. Is Subsequence
@@ -221,6 +222,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-209. Minimum Size Subarray Sum
     - lc-18. 4Sum
     - 剑指Offer-65. 不用加减乘除做加法
+    - AcWing-800. 数组元素的目标和
+    - AcWing-2816. 判断子序列
   
 
 

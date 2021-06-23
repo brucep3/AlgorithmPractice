@@ -2,7 +2,11 @@
 // Created by bruce on 2021/6/8.
 //
 
-// 898. 数字三角形
+//
+/**
+ * AcWing-898. 数字三角形
+ * 题目链接：https://www.acwing.com/problem/content/900/
+ */
 
 #include <algorithm>
 

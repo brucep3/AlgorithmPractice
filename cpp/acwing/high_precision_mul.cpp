@@ -5,6 +5,7 @@
 
 /**
  * AcWing-793. 高精度乘法
+ * 题目链接：https://www.acwing.com/problem/content/795/
  * A x b = C -> 将 b 看成一个整体，A 一个一个取值
  */
 
