@@ -1,4 +1,10 @@
-// 898. 数字三角形
+
+/**
+ * @Description
+ * AcWing-898. 数字三角形
+ * @Author PAN Bruce
+ * @Date 2021/6/17
+ */
 
 // TODO: TODO
 var fs = require('fs');

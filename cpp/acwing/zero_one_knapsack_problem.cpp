@@ -32,10 +32,17 @@ int f[N][N];
 int main() {
     cin >> n >> m;
 
-    for (int i = 1; i <= n; i ++) cin >> v[i];
+    for (int i = 1; i <= n; i++) cin >> v[i];
 
 
     return 0;
 }
 
+int simpleSolution() {
+
+}
+
+int optimalSolution() {
+
+}
 

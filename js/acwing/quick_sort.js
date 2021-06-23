@@ -1,5 +1,5 @@
 /**
- * 789. 数的范围
+ * AcWing-789. 数的范围
  * https://www.acwing.com/problem/content/description/791/
  * @Description
  * @Author PAN Bruce
@@ -38,8 +38,8 @@ function quickSort(q, l, r) {
         j = r + 1;
 
     while (i < j) {
-        do i++; while (q[i] < x);
-        do j--; while (q[j] > x);
+        while (q[++i] < x) ;
+        while (q[--j] > x) ;
         if (i < j) swap(q, i, j);
     }
 

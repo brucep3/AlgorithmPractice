@@ -46,11 +46,15 @@ const quickSortV2 = function quickSort(q, l, r) {
         j = r + 1;
 
     while (i < j) {
-        do i++; while (q[i] < pivot);
-        do j--; while (q[j] > pivot);
+        while (q[++i] < pivot) {
+        }
+        while (q[--j] > pivot) {
+        }
         if (i < j) swap(q, i, j);
     }
 
+    // 考虑两个元素的情况：[2, 1] ->  i = 0, j = 1 -> swap -> [1, 2] -> i = 0, j = 0
+    // 用 i 则不能取到左边界，把 x 取值改成向上取整；用 j 则不能取到右边界，把 x 取值改成向下取整
     quickSort(q, l, j);
     quickSort(q, j + 1, r);
 
@@ -68,11 +72,31 @@ const quickSortV2 = function quickSort(q, l, r) {
 };
 
 /**
+ * 快排（稳定排序）
+ * 思想：将坐标也加入比较
+ * 具体做法：双指针
+ * @param {Array} q
+ * @param {Number} l
+ * @param {Number} r
+ */
+const quickSortV3 = function quickSort(q, l, r) {
+
+    /**
+     * 元素比较
+     * @param val
+     * @param idx
+     */
+    const compare = (val, idx) => {
+    };
+
+}
+
+/**
  * 归并排序
  * @param {Array} q
  * @param {Number} l
  * @param {Number} r
  */
-function mergeSort(q, l, r) {
+const mergeSort = function mergeSort(q, l, r) {
 
 }

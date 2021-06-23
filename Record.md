@@ -15,10 +15,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 剑指offer-03. 数组中重复的数字
 - 2021.04.08
     - lc-153. Find Minimum in Rotated Sorted Array
-- 2021.04.09:
+- 2021.04.09
     - lc-154. Find Minimum in Rotated Sorted Array II
     - lc-74, lc-240, 剑指Offer-04. Search a 2D Matrix I, II
-- 2021.04.12:
+- 2021.04.12
     - 剑指Offer-10-I. 斐波那契数列
     - lc-179. Largest Number
 - 2021.04.13
@@ -32,19 +32,41 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-107. Binary Tree Level Order Traversal II
     - lc-104, 剑指Offer-55-I. Maximum Depth of Binary Tree
     - lc-543. Diameter of Binary Tree
-- 2021.04.14: Symmetric Tree (lc-101, 与剑指Offer-28相同), Path Sum(lc-112), Kth Smallest Element in a BST(lc-230), Second
-  Minimum Node In a Binary Tree(lc-671)
-- 2021.04.15: House Robber I, II(lc-198, lc-213), Find Mode in Binary Search Tree(lc-501), Validate Binary Search Tree (
-  lc-98), Find Mode in Binary Search Tree(lc-501), Path Sum I, II, III(lc-112, lc-113, lc-437), Binary Tree Paths(
-  lc-257)
-- 2021.04.16: Scramble String(lc-87, TODO), Construct Binary Search Tree from Preorder Traversal(lc-1008), Insert into a
-  Binary Search Tree (lc-701), Construct Binary Tree from Inorder and Postorder Traversal(lc-106), Lowest Common
-  Ancestor of a Binary Search Tree(lc-235), Lowest Common Ancestor of a Binary Tree(lc-236)
-- 2021.04.18: Invert Binary Tree(lc-226,剑指 Offer-27), Convert BST to Greater Tree(lc-538), Merge Two Binary Trees
-  (lc-617), Balanced Binary Tree(lc-110), 树的子结构(剑指 Offer-26)
-- 2021.04.19: Remove Element(lc-27), Binary Tree Maximum Path Sum(lc-124)
-- 2021.04.20: Implement strStr(lc-28), Convert BST to Greater Tree(lc-538), 二叉搜索树的后序遍历序列(剑指Offer-33), 二叉搜索树与双向链表(剑指
-  Offer-36), Fibonacci Number(lc-509), Unique Binary Search Trees(lc-96)
+- 2021.04.14
+    - lc-101, 剑指Offer-28. Symmetric Tree
+    - lc-112. Path Sum
+    - lc-230. Kth Smallest Element in a BST
+    - lc-671. Second Minimum Node In a Binary Tree
+- 2021.04.15
+    - lc-198, lc-213. House Robber I, II
+    - lc-501. Find Mode in Binary Search Tree
+    - lc-98. Validate Binary Search Tree
+    - lc-501. Find Mode in Binary Search Tree
+    - lc-112, lc-113, lc-437. Path Sum I, II, III
+    - lc-257. Binary Tree Paths
+- 2021.04.16
+    - lc-87. Scramble String(TODO),
+    - lc-1008. Construct Binary Search Tree from Preorder Traversal
+    - lc-701. Insert into a Binary Search Tree
+    - lc-106. Construct Binary Tree from Inorder and Postorder Traversal
+    - lc-235. Lowest Common Ancestor of a Binary Search Tree
+    - lc-236. Lowest Common Ancestor of a Binary Tree
+- 2021.04.18
+    - lc-226, 剑指 Offer-27. Invert Binary Tree
+    - lc-538. Convert BST to Greater Tree
+    - lc-617. Merge Two Binary Trees
+    - lc-110. Balanced Binary Tree
+    - 剑指 Offer-26. 树的子结构
+- 2021.04.19:
+    - lc-27. Remove Element
+    - lc-124. Binary Tree Maximum Path Sum
+- 2021.04.20:
+    - lc-28. Implement strStr(),
+    - Convert BST to Greater Tree(lc-538),
+    - 二叉搜索树的后序遍历序列(剑指Offer-33),
+    - 二叉搜索树与双向链表(剑指Offer-36),
+    - Fibonacci Number(lc-509),
+    - Unique Binary Search Trees(lc-96)
 - 2021.04.21: Decode Ways(lc-91)
 - 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
 - 2021.04.27: Range Sum of BST(lc-938)
@@ -166,7 +188,34 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-877. Stone Game (TODO: DP)
 - 2021.06.17
     - lc-65. Valid Number
-
+    - AcWing-786. 第k个数
+    - AcWing-1. A + B
+- 2021.06.18
+    - lc-483. Smallest Good Base (TODO)
+    - AcWing-792. 高精度减法
+    - AcWing-791. 高精度加法
+    - AcWing-793. 高精度乘法
+    - AcWing-794. 高精度除法
+    - AcWing-795. 前缀和
+    - AcWing-796. 子矩阵的和
+    - AcWing-797. 差分
+    - AcWing-798. 差分矩阵 (TODO)
+    - lc-445. Add Two Numbers II
+    - lc-3. Longest1 Substring Without Repeating Characters
+- 2021.06.19
+    - lc-239. Maximum Length of a Concatenated String with Unique Characters
+- 2021.06.20
+    - lc-1600. Throne Inheritance (TODO)
+- 2021.06.21
+    - lc-401. Binary Watch (TODO)
+- 2021.06.22
+    - 剑指 Offer 38. 字符串的排列 (TODO)
+- 2021.06.23
+    - lc-22. Generate Parentheses
+    - lc-392. Is Subsequence
+    - AcWing-799. 最长连续不重复子序列
+    - AcWing-801. 二进制中1的个数
+  
 
 
 

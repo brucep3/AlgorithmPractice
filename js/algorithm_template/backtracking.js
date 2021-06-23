@@ -11,17 +11,20 @@
  * Restore IP Addresses(lc-93)
  */
 
-function backTrackingTemplate() {
+/**
+ * 回溯法模板
+ */
+var backTrackingTemplate = function backTracking() {
     // 回溯中止
     let someCondition = true;
-    if(someCondition) {
+    if (someCondition) {
         // 处理正确结果和错误结果
         return;
     }
 
-    // 当前可选择哪些结果进行回溯
+    // 当前可选择哪些结果进行回溯（剪枝）
     while (true) {
-        backTrackingTemplate();
+        backTracking();
         // 可选：当前回溯之后处理
     }
 }

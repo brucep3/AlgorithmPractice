@@ -1,5 +1,5 @@
 /**
- * 1. A + B
+ * AcWing-1. A + B
  * https://www.acwing.com/problem/content/description/1/
  * @Description
  * @Author PAN Bruce
