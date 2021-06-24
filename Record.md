@@ -224,6 +224,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 剑指Offer-65. 不用加减乘除做加法
     - AcWing-800. 数组元素的目标和
     - AcWing-2816. 判断子序列
+- 2021.06.24
+    - lc-149. Max Points on a Line (TODO)
+    - lc-19. Remove Nth Node From End of List
   
 
 
