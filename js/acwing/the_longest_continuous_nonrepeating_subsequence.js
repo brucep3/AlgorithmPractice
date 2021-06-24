@@ -26,8 +26,9 @@ process.stdin.on("end", function () {
     console.log(maxLenOfNonRepeatSubseq(nums));
 });
 
-var maxLenOfNonRepeatSubseq = function (nums) {
-    let max = 0, idxMap = new Map(); // [slow, fast)
+var maxLenOfNonRepeatSubseq = nums => {
+    let max = 0, idxMap = new Map();
+    // [slow, fast) , 左闭右开
     for (let slow = 0, fast = 0; fast < nums.length;) {
         while (fast < nums.length
             && (!idxMap.has(nums[fast]) || idxMap.get(nums[fast]) < slow)

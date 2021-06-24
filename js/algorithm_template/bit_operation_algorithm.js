@@ -22,3 +22,14 @@
  * 右移: >>
  * 无符号右移: >>>
  */
+
+/**
+ * 返回 n 的最后一个 1
+ * 消除 n 的最后一个 1 : n -= lowbit(n)
+ * @param n
+ * @returns {number}
+ */
+var lowbit = n => {
+    return n & -n;
+};
+

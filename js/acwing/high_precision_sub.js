@@ -1,6 +1,6 @@
 /**
  * @Description AcWing-792. 高精度减法
- * 原题链接：https://www.acwing.com/problem/content/794/
+ * 题目链接：https://www.acwing.com/problem/content/794/
  * @Author PAN Bruce
  * @Date 2021/6/18
  */

@@ -1,3 +1,5 @@
+**更新日志**
+
 NOTES: js 文件命名直接复制 leetcode URL 里题名
 
 - 2021.04.01
@@ -45,7 +47,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-112, lc-113, lc-437. Path Sum I, II, III
     - lc-257. Binary Tree Paths
 - 2021.04.16
-    - lc-87. Scramble String(TODO),
+    - lc-87. Scramble String (TODO)
     - lc-1008. Construct Binary Search Tree from Preorder Traversal
     - lc-701. Insert into a Binary Search Tree
     - lc-106. Construct Binary Tree from Inorder and Postorder Traversal
@@ -69,29 +71,61 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-96. Unique Binary Search Trees
 - 2021.04.21
     - lc-91. Decode Ways
-- 2021.04.26: Capacity To Ship Packages Within D Days(lc-1011)
-- 2021.04.27: Range Sum of BST(lc-938)
-- 2021.04.28: Sum of Square Numbers (lc-633), Climbing Stairs(lc-70, 与 剑指Offer10-II 相同), House Robber III(lc-337)
-- 2021.04.29: Integer Break(lc-343，与剑指Offer-14-I相同), Jump Game I, II (lc-55, 45)
-- 2021.04.30: Single Number I (lc-136), Number of 1 Bits(lc-191, 与剑指Offer-15相同)
-- 2021.05.01: Employee Importance(lc-690)
-- 2021.05.02: Replace All Digits with Characters, Maximum Element After Decreasing and Rearranging
-- 2021.05.03: Reverse Integer (lc-7)
-- 2021.05.04: Paint House III (不会做, TODO), Non-decreasing Array (lc-665)
-- 2021.05.05: Delete and Earn (lc-740)
-- 2021.05.06：Decode XORed Array (lc-1720)
-- 2021.05.07: XOR Operation in an Array (lc-1486)
-- 2021.05.08: Find Minimum Time to Finish All Jobs (lc-1723, TODO)
-- 2021.05.09: Minimum Number of Days to Make m Bouquets(lc-1482, TODO)
-- 2021.05.10: Leaf-Similar Trees(lc-872)
-- 2021.05.11: Decode XORed Permutation(lc-1734, TODO)
-- 2021.05.12: XOR Queries of a Subarray(lc-1310)
-- 2021.05.13: Number of Ways to Stay in the Same Place After Some Steps(lc-1269, TODO)
-- 2021.05.14: Integer to Roman(lc-12)
-- 2021.05.15: Roman to Integer(lc-13), 从尾到头打印链表(剑指Offer-06), 替换空格(剑指Offer-05), Letter Combinations of a Phone Number(
-  lc-17), Longest Common Prefix(lc-14)
-- 2021.05.16: Maximum XOR of Two Numbers in an Array(lc-421, TODO), Reverse Linked List I, II(lc-206, 92), 第一个只出现 一次的字符(
-  剑指Offer-50), Ugly Number I, II (lc-263, 264, 与 剑指Offer-49 相同, TODO)
+- 2021.04.26
+    - lc-1011. Capacity To Ship Packages Within D Days
+- 2021.04.27
+    - lc-938. Range Sum of BST
+- 2021.04.28:
+    - lc-633. Sum of Square Numbers
+    - lc-70, 剑指Offer-10-II. Climbing Stairs
+    - lc-337. House Robber III
+- 2021.04.29:
+    - lc-343, 剑指Offer-14-I. Integer Break
+    - lc-55, 45. Jump Game I, II
+- 2021.04.30:
+    - lc-136. Single Number I
+    - lc-191, 剑指Offer-15. Number of 1 Bits
+- 2021.05.01
+    - lc-690. Employee Importance
+- 2021.05.02:
+    - Replace All Digits with Characters
+    - Maximum Element After Decreasing and Rearranging
+- 2021.05.03:
+    - lc-7. Reverse Integer
+- 2021.05.04:
+    - Paint House III (不会做, TODO),
+    - lc-665. Non-decreasing Array
+- 2021.05.05:
+    - lc-740. Delete and Earn
+- 2021.05.06：
+    - Decode XORed Array (lc-1720)
+- 2021.05.07:
+    - XOR Operation in an Array (lc-1486)
+- 2021.05.08:
+    - Find Minimum Time to Finish All Jobs (lc-1723, TODO)
+- 2021.05.09:
+    - Minimum Number of Days to Make m Bouquets(lc-1482, TODO)
+- 2021.05.10:
+    - Leaf-Similar Trees(lc-872)
+- 2021.05.11:
+    - Decode XORed Permutation(lc-1734, TODO)
+- 2021.05.12:
+    - XOR Queries of a Subarray(lc-1310)
+- 2021.05.13:
+    - Number of Ways to Stay in the Same Place After Some Steps(lc-1269, TODO)
+- 2021.05.14:
+    - Integer to Roman(lc-12)
+- 2021.05.15:
+    - Roman to Integer(lc-13),
+    - 从尾到头打印链表(剑指Offer-06),
+    - 替换空格(剑指Offer-05),
+    - Letter Combinations of a Phone Number(lc-17),
+    - Longest Common Prefix(lc-14)
+- 2021.05.16:
+    - Maximum XOR of Two Numbers in an Array(lc-421, TODO),
+    - Reverse Linked List I, II(lc-206, 92),
+    - 第一个只出现 一次的字符(剑指Offer-50),
+    - Ugly Number I, II (lc-263, 264, 与 剑指Offer-49 相同, TODO)
 - 2021.05.17
     - lc-993. Cousins in Binary Tree
 - 2021.05.18
@@ -202,7 +236,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-797. 差分
     - AcWing-798. 差分矩阵 (TODO)
     - lc-445. Add Two Numbers II
-    - lc-3. Longest Substring Without Repeating Characters
+    - lc-3, 剑指Offer-48. 最长不含重复字符的子字符串. Longest Substring Without Repeating Characters
 - 2021.06.19
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20
@@ -216,7 +250,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-392. Is Subsequence
     - AcWing-799. 最长连续不重复子序列
     - AcWing-801. 二进制中1的个数
-    - lc-46. Permutations
+    - lc-46. Permuta1tions
     - lc-64. Minimum Path Sum
     - lc-125, 680. Valid Palindrome I, II
     - lc-209. Minimum Size Subarray Sum
@@ -227,6 +261,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.24
     - lc-149. Max Points on a Line (TODO)
     - lc-19. Remove Nth Node From End of List
+    - lc-215. Kth Largest Element in an Array (TODO)
   
 
 

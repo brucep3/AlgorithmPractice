@@ -1,6 +1,6 @@
 /**
  * @Description AcWing-793. 高精度乘法
- * 原题链接：https://www.acwing.com/problem/content/795/
+ * 题目链接：https://www.acwing.com/problem/content/795/
  * @Author PAN Bruce
  * @Date 2021/6/18
  */

@@ -1,6 +1,6 @@
 /**
  * @Description AcWing-786. 第k个数
- * 原题链接：https://www.acwing.com/problem/content/788/
+ * 题目链接：https://www.acwing.com/problem/content/788/
  * @Author PAN Bruce
  * @Date 2021/6/17
  */

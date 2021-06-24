@@ -6,7 +6,6 @@
  * @Date 2021/6/23
  */
 
-
 var fs = require('fs');
 var buf = '';
 
@@ -32,10 +31,11 @@ process.stdin.on("end", function () {
 });
 
 /**
- *
+ * 数组元素的目标和
  * @param arr1
  * @param arr2
  * @param target
+ * @returns {[number, number]}
  */
 var targetSumOfArr = (arr1, arr2, target) => {
     for (let l = 0, r = arr2.length - 1; l < arr1.length && r >= 0;) {
