@@ -236,7 +236,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-797. 差分
     - AcWing-798. 差分矩阵 (TODO)
     - lc-445. Add Two Numbers II
-    - lc-3, 剑指Offer-48. 最长不含重复字符的子字符串. Longest Substring Without Repeating Characters
+    - lc-3, 剑指Offer-48. Longest Substring Without Repeating Characters
 - 2021.06.19
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20

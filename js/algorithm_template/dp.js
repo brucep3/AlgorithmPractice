@@ -12,4 +12,14 @@
 
 /**
  * TODO: 股票买卖状态机
+ * DP 经典问题
+ * - 背包问题
+ * - 打家劫舍（House Robber）
+ * - 兑换硬币（Coin Change）
+ * - 买卖股票（Best Time to Buy ... ）
+ */
+
+/**
+ * DP 模板分类
+ * - 树状 DP
  */

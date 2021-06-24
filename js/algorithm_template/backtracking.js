@@ -1,7 +1,7 @@
 // 回溯
 
 /**
- * 回溯算法
+ * 回溯法
  * 0/13道题
  * Subsets I, II(lc-78, 90),
  * Permutations I, II(lc-46, 47),
@@ -14,17 +14,24 @@
 /**
  * 回溯法模板
  */
-var backTrackingTemplate = function backTracking() {
+var backTrackingTemplate = function bt() {
     // 回溯中止
-    let someCondition = true;
+    let someCondition; // 回溯中止条件
     if (someCondition) {
         // 处理正确结果和错误结果
         return;
     }
 
-    // 当前可选择哪些结果进行回溯（剪枝）
-    while (true) {
-        backTracking();
-        // 可选：当前回溯之后处理
+    // 当前可选择哪些结果，并进行回溯
+    for (; someCondition;) {
+        // 剪枝
+        if (someCondition) {
+
+        }
+        // !someCondition : dfs
+        bt();
+        // 回退 dfs
     }
+
+    // 可能回退
 }
