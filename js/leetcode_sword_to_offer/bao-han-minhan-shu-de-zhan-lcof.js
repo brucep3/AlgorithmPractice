@@ -1,4 +1,13 @@
 /**
+ * @Description
+ * 剑指Offer-30. 包含min函数的栈
+ * 解题思路：
+ * 两个栈：一个正常存取数据，另一个存取当前最小值，两个栈操作同步
+ * @Author PAN Bruce
+ * @Date 2021/6/25
+ */
+
+/**
  * initialize your data structure here.
  */
 var MinStack = function () {

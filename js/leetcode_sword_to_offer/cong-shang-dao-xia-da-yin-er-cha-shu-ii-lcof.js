@@ -6,7 +6,10 @@
  *     this.right = (right===undefined ? null : right)
  * }
  */
+
 /**
+ * 剑指Offer-32-II. 从上到下打印二叉树 II
+ * 解题思路：层次遍历
  * @param {TreeNode} root
  * @return {number[][]}
  */

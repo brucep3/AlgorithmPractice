@@ -241,7 +241,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20
     - lc-1600. Throne Inheritance (TODO)
-- 2021.06.21
+- 2021.06.211
     - lc-401. Binary Watch (TODO)
 - 2021.06.22
     - 剑指Offer-38. 字符串的排列 (TODO)
@@ -262,7 +262,11 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-149. Max Points on a Line (TODO)
     - lc-19. Remove Nth Node From End of List
     - lc-215. Kth Largest Element in an Array (TODO)
-  
+- 2021.06.25
+    - lc-752. Open the Lock (TODO)
+- 2021.06.26
+    - lc-773. Sliding Puzzle (TODO)
+    - 剑指Offer-09. 用两个栈实现队列
 
 
 

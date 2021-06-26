@@ -5,7 +5,10 @@
  *     this.next = null;
  * }
  */
+
 /**
+ * 剑指Offer-06. 从尾到头打印链表
+ * 解题思路：栈
  * @param {ListNode} head
  * @return {number[]}
  */
