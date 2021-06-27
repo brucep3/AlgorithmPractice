@@ -266,7 +266,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-752. Open the Lock (TODO)
 - 2021.06.26
     - lc-773. Sliding Puzzle (TODO)
-    - 剑指Offer-09. 用两个栈实现队列
+    - 剑指 Offer 09. 用两个栈实现队列
+    - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
+    - 剑指 Offer 45. 把数组排成最小的数
+    - 剑指 Offer 57 - II. 和为s的连续正数序列
 
 
 
