@@ -1,25 +1,31 @@
 /**
- * lc-46. Permutations
- * 全排列为 A(n, n) = n * (n - 1) * (n - 2) * .. * 2 * 1
- * 解题思路：模拟全排列，将 n 个 数字 一个一个插入当前结果
+ * lc-46. Permutations (46. 全排列)
+ * 解题思路：DFS
  * @param {number[]} nums
  * @return {number[][]}
  */
-var permute = function (nums) {
-    let resArr = [[]];
+var permute = function(nums) {
+    const resArr = [],
+        visit = new Array(nums.length).fill(false);
 
-    for (const num of nums) {
-        let len = resArr.length;
-        for (let i = 0; i < len; i++) {
-            let res = resArr.shift();
-            for (let j = 0; j <= res.length; j++) {
-                let cur = res.slice(0, j);
-                cur.push(num);
-                cur = cur.concat(res.slice(j, res.length));
-                resArr.push(cur);
+    const dfs = function dfs(curArr) {
+        if (curArr.length === nums.length) {
+            resArr.push(curArr.slice());
+        }
+
+        // curArr.length < nums.length
+        for (let i = 0; i < nums.length; ++i) {
+            if (!visit[i]) {
+                curArr.push(nums[i]);
+                visit[i] = true;
+                dfs(curArr);
+                visit[i] = false;
+                curArr.pop();
             }
         }
-    }
+    };
+
+    dfs([]);
 
     return resArr;
 };

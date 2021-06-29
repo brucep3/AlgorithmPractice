@@ -250,7 +250,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-392. Is Subsequence
     - AcWing-799. 最长连续不重复子序列
     - AcWing-801. 二进制中1的个数
-    - lc-46. Permuta1tions
+    - lc-46. Permutations
     - lc-64. Minimum Path Sum
     - lc-125, 680. Valid Palindrome I, II
     - lc-209. Minimum Size Subarray Sum
@@ -270,8 +270,18 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
     - 剑指 Offer 45. 把数组排成最小的数
     - 剑指 Offer 57 - II. 和为s的连续正数序列
-
-
+- 2021.06.27
+    - lc-909. Snakes and Ladders (TODO)
+    - 剑指 Offer 32 - I. 从上到下打印二叉树
+    - 剑指 Offer 47. 礼物的最大价值
+- 2021.06.28
+    - lc-815. Bus Routes (TODO)
+    - 剑指 Offer 12. 矩阵中的路径
+    - AcWing-842. 排列数字
+    - AcWing-843. n-皇后问题 , lc-51. N-Queens
+    - AcWing-844. 走迷宫
+- 2021.06.29
+    - lc-168. Excel Sheet Column Title
 
 
 

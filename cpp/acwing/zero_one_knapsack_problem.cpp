@@ -39,10 +39,10 @@ int main() {
 }
 
 int simpleSolution() {
-
+    return 0;
 }
 
 int optimalSolution() {
-
+    return 0;
 }
 
