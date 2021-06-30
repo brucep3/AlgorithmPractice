@@ -236,7 +236,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-797. 差分
     - AcWing-798. 差分矩阵 (TODO)
     - lc-445. Add Two Numbers II
-    - lc-3, 剑指Offer-48. Longest Substring Without Repeating Characters
+    - lc-3, 剑指 Offer 48. Longest Substring Without Repeating Characters
 - 2021.06.19
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20
@@ -278,7 +278,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-815. Bus Routes
     - 剑指 Offer 12. 矩阵中的路径
     - AcWing-842. 排列数字
-    - AcWing-843. n-皇后问题 , lc-51. N-Queens
+    - AcWing-843. n-皇后问题
+    - lc-51. N-Queens (TODO)
     - AcWing-844. 走迷宫
 - 2021.06.29
     - lc-168. Excel Sheet Column Title
