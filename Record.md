@@ -190,7 +190,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.07
     - lc-62, 63. Unique Paths I, II
     - lc-494. Target Sum (TODO)
-    - lc-120 Triangle
+    - lc-120. Triangle
 - 2021.06.08
     - lc-1049. Last Stone Weight II (TODO)
     - lc-72. Edit Distance (TODO)
@@ -241,10 +241,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-239. Maximum Length of a Concatenated String with Unique Characters
 - 2021.06.20
     - lc-1600. Throne Inheritance (TODO)
-- 2021.06.211
+- 2021.06.21
     - lc-401. Binary Watch (TODO)
 - 2021.06.22
-    - 剑指Offer-38. 字符串的排列 (TODO)
+    - 剑指 Offer 38. 字符串的排列 (TODO)
 - 2021.06.23
     - lc-22. Generate Parentheses
     - lc-392. Is Subsequence
@@ -265,17 +265,17 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.06.25
     - lc-752. Open the Lock (TODO)
 - 2021.06.26
-    - lc-773. Sliding Puzzle (TODO)
+    - lc-773. Sliding Puzzle
     - 剑指 Offer 09. 用两个栈实现队列
     - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
     - 剑指 Offer 45. 把数组排成最小的数
     - 剑指 Offer 57 - II. 和为s的连续正数序列
 - 2021.06.27
-    - lc-909. Snakes and Ladders (TODO)
+    - lc-909. Snakes and Ladders
     - 剑指 Offer 32 - I. 从上到下打印二叉树
     - 剑指 Offer 47. 礼物的最大价值
 - 2021.06.28
-    - lc-815. Bus Routes (TODO)
+    - lc-815. Bus Routes
     - 剑指 Offer 12. 矩阵中的路径
     - AcWing-842. 排列数字
     - AcWing-843. n-皇后问题 , lc-51. N-Queens
