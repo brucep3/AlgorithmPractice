@@ -282,6 +282,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-844. 走迷宫
 - 2021.06.29
     - lc-168. Excel Sheet Column Title
+- 2021.06.30
+    - 剑指 Offer 37. 序列化二叉树
 
 
 
