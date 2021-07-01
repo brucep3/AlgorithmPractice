@@ -199,8 +199,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1000. Minimum Cost to Merge Stones (TODO)
 - 2021.06.09
     - lc-879. Profitable Schemes (TODO)
-    - lc-50, 剑指Offer-16. Pow(x, n)
-    - 剑指Offer-17. 打印从1到最大的n位数 LCOF
+    - lc-50, 剑指 Offer 16. Pow(x, n)
+    - 剑指 Offer 17. 打印从1到最大的n位数
 - 2021.06.10
     - lc-322, 518. Coin Change I, II
     - lc-15. 3Sum
@@ -285,7 +285,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-168. Excel Sheet Column Title
 - 2021.06.30
     - 剑指 Offer 37. 序列化二叉树
-
+- 2021.07.01
+    - LCP 07. 传递信息
 
 
 

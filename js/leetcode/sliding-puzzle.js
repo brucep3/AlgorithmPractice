@@ -32,10 +32,10 @@ var slidingPuzzle = function (board) {
         }
     }
 
-    const RESSTR = "123450";
+    const RESULT_STR = "123450";
 
     const minSteps = new Map(), // 映射：迷板状态 -> 到当前迷板状态的最少移动次数
-        dxys = [[-1, 0], [1, 0], [0, -1], [0, 1]],
+        dxyArr = [[-1, 0], [1, 0], [0, -1], [0, 1]],
         queue = [];
 
     // 初始化
@@ -47,9 +47,11 @@ var slidingPuzzle = function (board) {
         for (let i = 0; i < len; ++i) {
             let cur = queue.shift(),
                 curBoardStr = getBordStr(cur);
-            if (curBoardStr === RESSTR) return minSteps.get(RESSTR);
+
+            if (curBoardStr === RESULT_STR) return minSteps.get(RESULT_STR);
+
             let [x, y] = getZeroCoord(cur);
-            for (const [dx, dy] of dxys) {
+            for (const [dx, dy] of dxyArr) {
                 let nx = x + dx, ny = y + dy;
                 if (nx >= 0 && nx <= 1 && ny >= 0 && ny <= 2) {
                     cur[x][y] = cur[nx][ny];
