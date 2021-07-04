@@ -100,3 +100,28 @@ const quickSortV3 = function quickSort(q, l, r) {
 const mergeSort = function mergeSort(q, l, r) {
 
 }
+
+// 计数排序
+const countSort = function (arr) {
+
+};
+
+
+/**
+ * 桶排序
+ * @param arr
+ * @param bucketSize 桶大小
+ */
+const bucketSort = function (arr, bucketSize) {
+    if (!arr.length) return arr;
+
+    // 桶的默认数量为 5
+    const DEFAULT_BUCKET_SIZE = 5;
+
+    // 最大值和最小值
+    // 桶数量
+    // 桶大小
+
+    // 初始化桶
+
+};
