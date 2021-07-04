@@ -286,10 +286,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 剑指 Offer 37. 序列化二叉树
 - 2021.07.01
     - LCP 07. 传递信息
+- 2021.07.02
+    - lc-1833. Maximum Ice Cream Bars
 - 2021.07.03
     - lc-451. Sort Characters By Frequency 
 - 2021.07.04
     - lc-645. Set Mismatch
-    
-
 
