@@ -109,19 +109,41 @@ const countSort = function (arr) {
 
 /**
  * 桶排序
- * @param arr
+ * @param arr 排序数组
  * @param bucketSize 桶大小
  */
 const bucketSort = function (arr, bucketSize) {
     if (!arr.length) return arr;
 
-    // 桶的默认数量为 5
+    // 桶默认大小
     const DEFAULT_BUCKET_SIZE = 5;
+    // 桶大小
+    bucketSize = bucketSize || DEFAULT_BUCKET_SIZE;
 
     // 最大值和最小值
+    let min = Number.MAX_SAFE_INTEGER,
+        max = Number.MIN_SAFE_INTEGER;
+
+    for (const ele of arr) {
+        min = Math.min(min, ele);
+        max = Math.max(max, ele);
+    }
+
     // 桶数量
-    // 桶大小
+    const bucketCount = Math.floor((max - min) / bucketSize) + 1,
+        buckets = new Array(bucketCount).fill(0).map(() => []);
 
-    // 初始化桶
+    for (const ele of arr) {
+        buckets[Math.floor((ele - min) / bucketSize)].push(ele);
+    }
 
+    // 桶内排序算法
+    const sortArr = quickSortV2;
+    arr.length = 0;
+    for (const bucket of buckets) {
+        sortArr(bucket, 0, bucket.length - 1);
+        for (const ele of bucket) arr.push(ele);
+    }
+
+    return arr;
 };

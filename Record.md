@@ -263,7 +263,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-19. Remove Nth Node From End of List
     - lc-215. Kth Largest Element in an Array (TODO)
 - 2021.06.25
-    - lc-752. Open the Lock (TODO)
+    - lc-752. Open the Lock
 - 2021.06.26
     - lc-773. Sliding Puzzle
     - 剑指 Offer 09. 用两个栈实现队列
@@ -278,8 +278,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-815. Bus Routes
     - 剑指 Offer 12. 矩阵中的路径
     - AcWing-842. 排列数字
-    - AcWing-843. n-皇后问题
-    - lc-51. N-Queens (TODO)
+    - AcWing-843. n-皇后问题 , lc-51. N-Queens
     - AcWing-844. 走迷宫
 - 2021.06.29
     - lc-168. Excel Sheet Column Title
@@ -287,8 +286,9 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 剑指 Offer 37. 序列化二叉树
 - 2021.07.01
     - LCP 07. 传递信息
+- 2021.07.04
+    - lc-645. Set Mismatch
+    
 
 
 
-
- 
