@@ -294,4 +294,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-645. Set Mismatch
 - 2021.07.05
     - lc-39. Combination Sum
+    - lc-726. Number of Atoms
 
