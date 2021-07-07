@@ -295,4 +295,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.05
     - lc-39. Combination Sum
     - lc-726. Number of Atoms
-
+- 2021.07.06
+    - lc-1418. Display Table of Food Orders in a Restaurant
