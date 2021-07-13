@@ -46,6 +46,7 @@ var binarySearchV1 = function (nums, target) {
  * 整数二分查找算法模板V1
  * 用于查找后半段的左边界
  * 区间[l, r]被划分成[l, mid]和[mid + 1, r]时使用
+ * check 检查后半段性质
  * @param {number} l
  * @param {number} r
  * @returns {number} l
@@ -64,6 +65,7 @@ var bSearchV1 = function (l, r) {
  * 整数二分查找算法模板V2
  * 用于查找前半段的右边界
  * 区间[l, r]被划分成[l, mid - 1]和[mid, r]时使用
+ * check 检查前半段性质
  * @param {number} l
  * @param {number} r
  * @returns {number}
