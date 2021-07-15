@@ -1,3 +1,18 @@
+**解题模板更新日志**
+
+#### 位运算
+
+- lowbit
+
+#### 数据结构
+
+#### 高级数据结构
+
+- 树状数组 (TODO)
+- 线段数组 (TODO)
+
+**剑指Offer更新日志**
+
 **更新日志**
 
 NOTES: js 文件命名直接复制 leetcode URL 里题名
@@ -302,4 +317,6 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.08
     - lc-930. Binary Subarrays With Sum
 - 2021.07.13
-    - lc-218. The Skyline Problem
+    - lc-218. The Skyline Problem (TODO)
+- 2021.07.14
+    - lc-1818. Minimum Absolute Sum Difference (TODO)
