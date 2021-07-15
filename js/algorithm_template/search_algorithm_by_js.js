@@ -53,10 +53,9 @@ var binarySearchV1 = function (nums, target) {
  */
 var bSearchV1 = function (l, r) {
     while (l < r) {
-        let mid = l + r >> 1;
-        // check() 判断 mid 是否满足性质
-        if (check(mid)) r = mid;
-        else l = mid + 1;
+        let m = l + r >> 1;
+        if (check(m)) r = m;
+        else l = m + 1;
     }
     return l;
 }
@@ -72,9 +71,9 @@ var bSearchV1 = function (l, r) {
  */
 var bSearchV2 = function (l, r) {
     while (l < r) {
-        let mid = l + r + 1 >> 1;
-        if (check(mid)) l = mid;
-        else r = mid - 1;
+        let m = l + r + 1 >> 1;
+        if (check(m)) l = m;
+        else r = m - 1;
     }
     return l;
 }
