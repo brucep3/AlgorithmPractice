@@ -1,3 +1,5 @@
+// noinspection DuplicatedCode
+
 /**
  * lc-274. H-Index
  * Read the question: citations[i] >= citations.length - i
