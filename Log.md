@@ -29,7 +29,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-26, lc-80. Remove Duplicates from Sorted Array I, II
 - 2021.04.07
     - lc-33, 81. Search in Rotated Array I & II
-    - 剑指offer-03. 数组中重复的数字
+    - 剑指 offer 03. 数组中重复的数字
 - 2021.04.08
     - lc-153. Find Minimum in Rotated Sorted Array
 - 2021.04.09
@@ -44,7 +44,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-94. Binary Tree Inorder Traversal
     - lc-144. Binary Tree Preorder Traversal
     - lc-145. Binary Tree Postorder Traversal
-    - lc-102, 剑指Offer-32-ii. Binary Tree Level Order Traversal
+    - lc-102, 剑指Offer 32 ii. Binary Tree Level Order Traversal
     - lc-103. Binary Tree Zigzag Level Order Traversal
     - lc-107. Binary Tree Level Order Traversal II
     - lc-104, 剑指Offer-55-I. Maximum Depth of Binary Tree
@@ -189,11 +189,11 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-525. Contiguous Array
 - 2021.06.04
     - lc-141, 142. Linked List Cycle I, II
-    - lc-34, 剑指Offer-53-I. Find First and Last Position of Element in Sorted Array
+    - lc-34, 剑指 Offer 53 - I. Find First and Last Position of Element in Sorted Array
     - lc-349, 350. Intersection of Two Arrays I, II
-    - 剑指Offer-51. 数组中的逆序对
+    - 剑指 Offer-51. 数组中的逆序对
     - lc-78, 90. Subsets I, II
-    - lc-53. Maximum Subarray
+    - lc-53, 剑指 Offer 42. Maximum Subarray
     - lc-338. Counting Bits
 - 2021.06.06
     - lc-474. Ones and Zeroes
@@ -316,7 +316,22 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1711-count-good-meals
 - 2021.07.08
     - lc-930. Binary Subarrays With Sum
+- 2021.07.9
+  - 面试题 17.10. 主要元素 (TODO: 优化)
+- 2021.07.10
+  - lc-981. Time Based Key-Value Store (TODO)
+- 2021.07.11
+  - lc-274. H-Index
+- 2021.07.12
+    - lc-275. H-Index II
 - 2021.07.13
     - lc-218. The Skyline Problem (TODO)
 - 2021.07.14
     - lc-1818. Minimum Absolute Sum Difference (TODO)
+- 2021.07.15
+    - lc-XXX (TODO)
+- 2021.07.16
+  - lc-371. Sum of Two Integers (371. 两整数之和)
+- 2021.07.17
+  - lc-75. Sort Colors (75. 颜色分类)
+  
