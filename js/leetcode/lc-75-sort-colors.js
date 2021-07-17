@@ -1,12 +1,12 @@
 /**
- * lc-75. Sort Colors (75. 颜色分类)
+ * lc-75. Sort Colors
  * Solution: Double Point
  * Time complexity: O(n)
  * Space complexity: O(1)
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */
-var sortColors = function(nums) {
+var sortColors = function (nums) {
     let l = 0, r = nums.length - 1;
 
     const swap = (i, j) => {

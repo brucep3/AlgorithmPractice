@@ -317,21 +317,24 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.08
     - lc-930. Binary Subarrays With Sum
 - 2021.07.9
-  - 面试题 17.10. 主要元素 (TODO: 优化)
+    - 面试题 17.10. 主要元素 (TODO: 优化，投票)
 - 2021.07.10
-  - lc-981. Time Based Key-Value Store (TODO)
+    - lc-981. Time Based Key-Value Store (TODO)
 - 2021.07.11
-  - lc-274. H-Index
+    - lc-274. H-Index (274. H 指数)
 - 2021.07.12
-    - lc-275. H-Index II
+    - lc-275. H-Index II (275. H 指数 II)
 - 2021.07.13
     - lc-218. The Skyline Problem (TODO)
 - 2021.07.14
     - lc-1818. Minimum Absolute Sum Difference (TODO)
 - 2021.07.15
-    - lc-XXX (TODO)
+    - lc-131. Palindrome Partitioning (131. 分割回文串, TODO: 优化，记忆化搜索)
 - 2021.07.16
-  - lc-371. Sum of Two Integers (371. 两整数之和)
+    - lc-371. Sum of Two Integers (371. 两整数之和)
 - 2021.07.17
-  - lc-75. Sort Colors (75. 颜色分类)
+    - lc-75. Sort Colors (75. 颜色分类，TODO：三路快排笔记)
+    - lc-49. Group Anagrams (49. 字母异位词分组)
+    - lc-116. Populating Next Right Pointers in Each Node (116. 填充每个节点的下一个右侧节点指针, TODO: 优化)
+  
   
