@@ -1,15 +1,13 @@
 /**
- * lc-49. Group Anagrams
- * Solution: Hash Table
+ * 49. Group Anagrams
+ * Solution: Hash Table + Sort
  * Time complexity: O(n)
  * Space complexity: O(n)
  * @param {string[]} strs
  * @return {string[][]}
  */
 var groupAnagrams = function (strs) {
-    const rearrange = (str) => {
-        return str.split("").sort().join("");
-    };
+    const rearrange = (str) => str.split("").sort().join("");
 
     let map = new Map();
     strs.forEach((val) => {

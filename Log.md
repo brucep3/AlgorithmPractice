@@ -334,7 +334,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-371. Sum of Two Integers (371. 两整数之和)
 - 2021.07.17
     - lc-75. Sort Colors (75. 颜色分类，TODO：三路快排笔记)
-    - lc-49. Group Anagrams (49. 字母异位词分组)
+    - 面试题 10.02, lc-49. Group Anagrams (49. 字母异位词分组)
     - lc-116. Populating Next Right Pointers in Each Node (116. 填充每个节点的下一个右侧节点指针, TODO: 优化)
+- 2021.07.18
+    - lc-36. Valid Sudoku (36. 有效的数独, TODO)
+    
   
   
