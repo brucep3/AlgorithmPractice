@@ -337,7 +337,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 面试题 10.02, lc-49. Group Anagrams (49. 字母异位词分组)
     - lc-116. Populating Next Right Pointers in Each Node (116. 填充每个节点的下一个右侧节点指针, TODO: 优化)
 - 2021.07.18
-    - lc-36. Valid Sudoku (36. 有效的数独, TODO)
+    - lc-36. Valid Sudoku (36. 有效的数独)
+    - lc-139. Word Break (139. 单词拆分, TODO)
+    - lc-347. Top K Frequent Elements (347. 前 K 个高频元素)
+    - lc-189. Rotate Array (189. 旋转数组)
     
   
   

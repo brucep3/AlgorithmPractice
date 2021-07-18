@@ -1,5 +1,5 @@
 /**
- * lc-1846. Maximum Element After Decreasing and Rearranging (1846. 减小和重新排列数组后的最大元素)
+ * lc-1846. Maximum Element After Decreasing and Rearranging
  * Solution: Greedy
  * Time complexity: O(nlogn)
  * Space complexity: O(1)
