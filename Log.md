@@ -341,6 +341,12 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-139. Word Break (139. 单词拆分, TODO)
     - lc-347. Top K Frequent Elements (347. 前 K 个高频元素)
     - lc-189. Rotate Array (189. 旋转数组)
+- 2021.07.19
+    - lc-307. Range Sum Query - Mutable (307. 区域和检索 - 数组可修改)
+    - lc-1838. Frequency of the Most Frequent Element (1838. 最高频元素的频数, TODO)
+    - lc-118. Pascal's Triangle (118. 杨辉三角)
+    - AcWing-241. 楼兰图腾
     
+  
   
   

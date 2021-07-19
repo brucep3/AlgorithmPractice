@@ -4,7 +4,7 @@
  * @Date 2021/7/19
  */
 
-class TreeArr {
+class BinaryIndexedTree {
 
     /**
      * 树状数组
