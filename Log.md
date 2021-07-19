@@ -318,7 +318,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.06
     - lc-1418. Display Table of Food Orders in a Restaurant
 - 2021.07.07
-    - lc-1711-count-good-meals
+    - lc-1711. count-good-meals
 - 2021.07.08
     - lc-930. Binary Subarrays With Sum
 - 2021.07.9

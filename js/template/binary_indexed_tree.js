@@ -1,3 +1,5 @@
+// noinspection DuplicatedCode
+
 /**
  * @Description 树状数组
  * @Author PAN Bruce
@@ -25,7 +27,9 @@ class BinaryIndexedTree {
      * @param c
      */
     add(x, c) {
-        for (let i = x; i; i += this.constructor.lowbit(i)) this.tr[i] += c;
+        for (let i = x; i; i += this.constructor.lowbit(i)) {
+            this.tr[i] += c;
+        }
     }
 
     /**
