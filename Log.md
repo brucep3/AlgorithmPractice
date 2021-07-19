@@ -1,5 +1,10 @@
 **解题模板更新日志**
 
+#### 基础算法
+- 排序
+  - 快排
+  - 归并排序 (TODO: Working)
+
 #### 位运算
 
 - lowbit
@@ -8,8 +13,8 @@
 
 #### 高级数据结构
 
-- 树状数组 (TODO)
-- 线段数组 (TODO)
+- 树状数组 (TODO: Working)
+- 线段数组 (TODO: Later)
 
 **剑指Offer更新日志**
 
@@ -346,6 +351,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1838. Frequency of the Most Frequent Element (1838. 最高频元素的频数, TODO)
     - lc-118. Pascal's Triangle (118. 杨辉三角)
     - AcWing-241. 楼兰图腾
+- 2021.07.20  
+  - lc-1877. Minimize Maximum Pair Sum in Array (1877. 数组中最大数对和的最小值)
     
   
   
