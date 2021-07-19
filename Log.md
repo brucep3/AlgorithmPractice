@@ -337,7 +337,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - 面试题 10.02, lc-49. Group Anagrams (49. 字母异位词分组)
     - lc-116. Populating Next Right Pointers in Each Node (116. 填充每个节点的下一个右侧节点指针, TODO: 优化)
 - 2021.07.18
-    - lc-36. Valid Sudoku (36. 有效的数独, TODO)
+    - lc-36. Valid Sudoku (36. 有效的数独)
+- 2021.07.19
+    - lc-1838. Frequency of the Most Frequent Element (1838. 最高频元素的频数, TODO)
+    - lc-118. Pascal's Triangle (118. 杨辉三角)
     
   
   
