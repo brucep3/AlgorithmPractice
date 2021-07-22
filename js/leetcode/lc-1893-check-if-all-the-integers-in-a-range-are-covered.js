@@ -12,7 +12,7 @@ var isCovered = function (ranges, left, right) {
     const diff = new Array(52).fill(0);
 
     /**
-     * B[l] += c, B[r + 1] -= c
+     * every number of interval [l, r] plus c
      */
     const insert = (l, r, c) => {
         diff[l] += c;
@@ -24,7 +24,6 @@ var isCovered = function (ranges, left, right) {
     }
 
     for (let i = 1, sum = diff[0]; i <= right; ++i) {
-        // a[i] = b[1] + b[2] + .… + b[i]
         sum += diff[i];
         if (sum < 1 && i >= left) {
             return false;
