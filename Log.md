@@ -357,6 +357,6 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.21
   - 
 - 2021.07.22
-    - lc-138. Copy List with Random Pointer (138. 复制带随机指针的链表)
+    - 剑指 Offer 35 , lc-138. Copy List with Random Pointer (138. 复制带随机指针的链表)
   
   

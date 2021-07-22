@@ -1,5 +1,5 @@
 /**
- * lc-138. Copy List with Random Pointer
+ * 剑指 Offer 35. 复杂链表的复制
  * Solution: Linked List (Modifying Pointing)
  * Time Complexity: O(n)
  * Space Complexity: O(1)
