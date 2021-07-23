@@ -10,7 +10,6 @@ var maximumTime = function (time) {
     const [origHr, origMin] = time.split(":");
 
     let resHr = -1;
-
     ["1", "2", "3", "9"].forEach((val) => {
         let changeHr = +(origHr.replace("?", val));
         if (changeHr >= 0 && changeHr <= 23) resHr = Math.max(resHr, changeHr);
