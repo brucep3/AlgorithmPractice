@@ -1,8 +1,8 @@
 /**
  * lc-1893. Check if All the Integers in a Range Are Covered
  * Solution: Double Point (Fast Slow Point of Two Array)
- * Time Complexity: O(n)
- * Space Complexity: O(n)
+ * Time Complexity: O(nlogn)
+ * Space Complexity: O(1)
  * @param {number[][]} ranges
  * @param {number} left
  * @param {number} right
