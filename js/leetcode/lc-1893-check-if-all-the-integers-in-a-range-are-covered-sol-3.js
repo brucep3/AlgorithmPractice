@@ -1,3 +1,5 @@
+// noinspection DuplicatedCode
+
 /**
  * lc-1893. Check if All the Integers in a Range Are Covered
  * Solution: Double Point (Fast Slow Point of Two Array)
@@ -19,5 +21,6 @@ var isCovered = function (ranges, left, right) {
             }
         }
     }
+
     return p2 > right && p1 < ranges.length;
 };
