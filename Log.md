@@ -364,3 +364,4 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-165. Compare Version Numbers (165. 比较版本号, TODO: 优化)
 - 2021.07.24
     - lc-1094. Car Pooling (1094. 拼车)
+    - lc-814. Binary Tree Pruning
