@@ -368,3 +368,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1736. Latest Time by Replacing Hidden Digits (1736. 替换隐藏数字得到的最晚时间)
 - 2021.07.25
     - lc-1743. Restore the Array From Adjacent Pairs (1743. 从相邻元素对还原数组)
+    - AcWing-803. 区间合并
+    - lc-56. Merge Intervals (56. 合并区间)
