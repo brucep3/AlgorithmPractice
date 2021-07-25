@@ -370,3 +370,4 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-1743. Restore the Array From Adjacent Pairs (1743. 从相邻元素对还原数组)
     - AcWing-803. 区间合并
     - lc-56. Merge Intervals (56. 合并区间)
+    - lc-57. Insert Interval (57. 插入区间, TODO: 优化解法)

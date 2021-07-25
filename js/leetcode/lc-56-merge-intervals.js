@@ -12,14 +12,12 @@ var merge = function (intervals) {
     intervals.sort((a, b) => a[0] - b[0]);
 
     const resArr = [];
-    let st = Number.MIN_SAFE_INTEGER,
-        ed = Number.MIN_SAFE_INTEGER;
+    let [st, ed] = [Number.MIN_SAFE_INTEGER, Number.MIN_SAFE_INTEGER];
 
     for (const [l, r] of intervals) {
         if (l > ed) {
             if (st !== Number.MIN_SAFE_INTEGER) resArr.push([st, ed]);
-            st = l;
-            ed = r;
+            [st, ed] = [l, r];
         } else ed = Math.max(ed, r);
     }
 
