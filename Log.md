@@ -371,3 +371,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - AcWing-803. 区间合并
     - lc-56. Merge Intervals (56. 合并区间)
     - lc-57. Insert Interval (57. 插入区间, TODO: 优化解法)
+- 2021.07.26
+    - lc-1713. Minimum Operations to Make a Subsequence (1713. 得到子序列的最少操作次数)
