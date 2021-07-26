@@ -373,3 +373,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-57. Insert Interval (57. 插入区间, TODO: 优化解法)
 - 2021.07.26
     - lc-1713. Minimum Operations to Make a Subsequence (1713. 得到子序列的最少操作次数)
+- 2021.07.27
+    - lc-671. Second Minimum Node In a Binary Tree (671. 二叉树中第二小的节点)

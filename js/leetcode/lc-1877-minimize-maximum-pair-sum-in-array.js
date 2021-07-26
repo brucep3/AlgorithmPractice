@@ -1,6 +1,6 @@
 /**
  * lc-1877. Minimize Maximum Pair Sum in Array
- * Solution: Sort + Greedy + Double point (Left Right Points of One Array)
+ * Solution: Sort + Greedy + Double Point (Left Right Points of One Array)
  * Time complexity: O(nlogn)
  * Space complexity: O(1)
  * @param {number[]} nums
