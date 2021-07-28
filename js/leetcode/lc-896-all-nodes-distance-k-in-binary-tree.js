@@ -9,7 +9,7 @@
 /**
  * lc-863. All Nodes Distance K in Binary Tree
  * Read the Problem:
- * Solution: BFS
+ * Solution: DFS + BFS
  * Time Complexity: O(n)
  * Space Complexity: O(n)
  * @param {TreeNode} root 0 <= node.val <= 500
@@ -44,7 +44,7 @@ var distanceK = function (root, target, k) {
                         visit.add(cur[key]);
                     }
                 }
-            )
+            );
         }
     }
 
