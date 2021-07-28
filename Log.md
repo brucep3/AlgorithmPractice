@@ -377,3 +377,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-671. Second Minimum Node In a Binary Tree (671. 二叉树中第二小的节点)
 - 2021.07.28
     - lc-863. All Nodes Distance K in Binary Tree (863. 二叉树中所有距离为 K 的结点)
+- 2021.07.29
+    - lc-1104. Path In Zigzag Labelled Binary Tree (1104. 二叉树寻路)

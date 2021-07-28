@@ -1,6 +1,6 @@
 /**
- * lc-51. N-Queens (51. N 皇后)
- * 解题思路： DFS
+ * lc-51. N-Queens
+ * Solution：DFS
  * @param {number} n
  * @return {string[][]}
  */
