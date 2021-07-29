@@ -379,3 +379,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-863. All Nodes Distance K in Binary Tree (863. 二叉树中所有距离为 K 的结点)
 - 2021.07.29
     - lc-1104. Path In Zigzag Labelled Binary Tree (1104. 二叉树寻路)
+- 2021.07.30
+    - lc-171. Excel Sheet Column Number (171. Excel表列序号)
+    - lc-739. Daily Temperatures (739. 每日温度， TODO：优化成单调栈)
+    - lc-283. Move Zeroes (283. 移动零)
