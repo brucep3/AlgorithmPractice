@@ -1,5 +1,5 @@
 /**
- * lc-171. Excel Sheet Column Number (171. Excel表列序号)
+ * lc-171. Excel Sheet Column Number
  * Solution: Simulation
  * Time Complexity: O(n)
  * Space Complexity: O(1)
