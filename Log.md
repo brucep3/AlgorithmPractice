@@ -112,7 +112,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - Replace All Digits with Characters
     - Maximum Element After Decreasing and Rearranging
 - 2021.05.03:
-    - lc-7. Reverse Integer
+    - lc-7. Reverse Integer (7. 整数反转)
 - 2021.05.04:
     - Paint House III (不会做, TODO),
     - lc-665. Non-decreasing Array
@@ -383,3 +383,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-171. Excel Sheet Column Number (171. Excel表列序号)
     - lc-739. Daily Temperatures (739. 每日温度， TODO：优化成单调栈)
     - lc-283. Move Zeroes (283. 移动零)
+    - lc-202. Happy Number (202. 快乐数, TODO: 优化快慢指针解和数学解)
+    - lc-58. Length of Last Word (58. 最后一个单词的长度)
+- 2021.07.31
+    - lc-987. Vertical Order Traversal of a Binary Tree (987. 二叉树的垂序遍历)
