@@ -30,7 +30,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.04.04
     - lc-781. Rabbits in Forest
 - 2021.04.05
-    - lc-88. Merge Sorted Array
+    - lc-88. Merge Sorted Array (88. 合并两个有序数组)
 - 2021.04.06
     - lc-26, lc-80. Remove Duplicates from Sorted Array I, II
 - 2021.04.07
@@ -205,7 +205,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-474. Ones and Zeroes
     - lc-203. Remove Linked List Elements
     - lc-150. Evaluate Reverse Polish Notation
-    - lc-20. Valid Parentheses
+    - lc-20. Valid Parentheses (20. 有效的括号)
     - lc-946. validate-stack-sequences
     - 剑指Offer-53-II. 0～n-1中缺失的数字
 - 2021.06.07
@@ -387,3 +387,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-58. Length of Last Word (58. 最后一个单词的长度)
 - 2021.07.31
     - lc-987. Vertical Order Traversal of a Binary Tree (987. 二叉树的垂序遍历)
+- 2021.08.01
+    - lc-344. Reverse String (344. 反转字符串)
+    - lc-1556. Thousand Separator (1556. Thousand Separator, TODO)
+    - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO)
