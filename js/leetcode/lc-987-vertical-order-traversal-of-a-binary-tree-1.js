@@ -10,7 +10,7 @@
 /**
  * lc-987. Vertical Order Traversal of a Binary Tree
  * Solution: Simulation (Hash Table)
- * Time Complexity: O(n^2)
+ * Time Complexity: O(n ^ 2)
  * Space Complexity: O(n)
  * @param {TreeNode} root
  * @return {number[][]}
