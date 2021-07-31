@@ -388,6 +388,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.31
     - lc-987. Vertical Order Traversal of a Binary Tree (987. 二叉树的垂序遍历)
 - 2021.08.01
+    - lc-1337. The K Weakest Rows in a Matrix (1337. 矩阵中战斗力最弱的 K 行) 
     - lc-344. Reverse String (344. 反转字符串)
     - lc-1556. Thousand Separator (1556. Thousand Separator, TODO)
     - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO)
+    - 
