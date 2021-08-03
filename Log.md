@@ -230,7 +230,7 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-16. 3Sum Closest
     - lc-11. Container With Most Water
     - lc-2. Add Two Numbers
-    - lc-415. Add Strings
+    - lc-415. Add Strings (415. 字符串相加)
     - lc-560. subarray-sum-equals-k
 - 2021.06.12
     - lc-1449. Form Largest Integer With Digits That Add up to Target (TODO)
@@ -388,8 +388,10 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.07.31
     - lc-987. Vertical Order Traversal of a Binary Tree (987. 二叉树的垂序遍历)
 - 2021.08.01
-    - lc-1337. The K Weakest Rows in a Matrix (1337. 矩阵中战斗力最弱的 K 行) 
+    - lc-1337. The K Weakest Rows in a Matrix (1337. 矩阵中战斗力最弱的 K 行, TODO: 优化快速选择)
     - lc-344. Reverse String (344. 反转字符串)
-    - lc-1556. Thousand Separator (1556. Thousand Separator, TODO)
+    - lc-1556. Thousand Separator (1556. Thousand Separator)
+- 2021.08.02
     - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO)
-    - 
+- 2021.08.03
+    - lc-1013. Partition Array Into Three Parts With Equal Sum (1013. 将数组分成和相等的三个部分)
