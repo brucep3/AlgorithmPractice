@@ -392,6 +392,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-344. Reverse String (344. 反转字符串)
     - lc-1556. Thousand Separator (1556. Thousand Separator)
 - 2021.08.02
-    - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO)
+    - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO: 优化中心扩散法和Manacher 算法)
 - 2021.08.03
     - lc-1013. Partition Array Into Three Parts With Equal Sum (1013. 将数组分成和相等的三个部分)
+- 2021.08.04
+    - lc-611. Valid Triangle Number (611. 有效三角形的个数, TODO: 优化双指针)
