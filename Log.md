@@ -389,8 +389,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-987. Vertical Order Traversal of a Binary Tree (987. 二叉树的垂序遍历)
 - 2021.08.01
     - lc-1337. The K Weakest Rows in a Matrix (1337. 矩阵中战斗力最弱的 K 行, TODO: 优化快速选择)
-    - lc-344. Reverse String (344. 反转字符串)
-    - lc-1556. Thousand Separator (1556. Thousand Separator)
+- lc-344. Reverse String (344. 反转字符串)
+- lc-1556. Thousand Separator (1556. Thousand Separator)
 - 2021.08.02
     - lc-5. Longest Palindromic Substring (5. 最长回文子串 , TODO: 优化中心扩散法和Manacher 算法)
 - 2021.08.03
@@ -399,3 +399,8 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
     - lc-611. Valid Triangle Number (611. 有效三角形的个数, TODO: 优化双指针)
 - 2021.08.16
     - lc-448. Find All Numbers Disappeared in an Array (448. 找到所有数组中消失的数字)
+- 2021.09.08
+    - lc-502. IPO (502. IPO, TODO)
+    - lc-35. Search Insert Position (35. 搜索插入位置)
+- 2021.09.21
+    - lc-58. Length of Last Word(58. 最后一个单词的长度)
