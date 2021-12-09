@@ -402,5 +402,5 @@ NOTES: js 文件命名直接复制 leetcode URL 里题名
 - 2021.09.08
     - lc-502. IPO (502. IPO, TODO)
     - lc-35. Search Insert Position (35. 搜索插入位置)
-- 2021.09.21
-    - lc-58. Length of Last Word(58. 最后一个单词的长度)
+- 2021.09.22
+    - 
