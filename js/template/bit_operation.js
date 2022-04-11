@@ -42,7 +42,7 @@
  * @param n
  * @returns {number}
  */
-var lowbit = n => {
+const lowbit = n => {
     return n & -n;
 };
 
