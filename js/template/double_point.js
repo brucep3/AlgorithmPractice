@@ -18,20 +18,20 @@
 
 /**
  * 双指针模板分类
- * - 一个序列快慢指针
- * - 一个序列左右指针
- * - 两个序列左右指针
- * - 两个序列同向指针
+ * - 一个序列的快慢指针
+ * - 一个序列的左右指针
+ * - 两个序列的左右指针
+ * - 两个序列的同向指针
  */
 
 /**
- * 双指针（一个序列快慢指针）模板
+ * 双指针（一个序列的快慢指针）模板
  * 快指针 fast 先移动，慢指针 slow 根据条件再移动
  * @param arr
  */
 var doublePointTemplateV1 = (arr) => {
     let n = arr.length; // 序列长度
-    // f(ast), s(low)
+    // [f(ast), s(low)]
     for (let fast = 0, slow = 0; fast < n; fast++) {
         // slow 根据情况移动
         while (slow <= fast && check(fast, slow)) slow++;
