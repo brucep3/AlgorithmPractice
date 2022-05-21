@@ -51,7 +51,7 @@ var binarySearchV1 = function (nums, target) {
  * @param {number} r
  * @returns {number} l
  */
-var bSearchV1 = function (l, r) {
+var bisectLeft = function (l, r) {
     while (l < r) {
         let m = l + r >> 1;
         if (check(m)) r = m;
@@ -69,7 +69,7 @@ var bSearchV1 = function (l, r) {
  * @param {number} r
  * @returns {number}
  */
-var bSearchV2 = function (l, r) {
+var bisectRight = function (l, r) {
     while (l < r) {
         let m = l + r + 1 >> 1;
         if (check(m)) l = m;
